@@ -1,6 +1,6 @@
 - Home
     
-    - [Welcome](/#welcome)
+    - [Welcome](/)
 
 - Getting Started
 
