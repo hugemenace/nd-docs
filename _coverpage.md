@@ -1,6 +1,6 @@
 ![logo](_media/logo.svg ':size=200')
 
-# HugeMenace — ND <small>1.1.1</small>
+# HugeMenace — ND
 
 > Non-destructive operations, tools, and generators.
 
