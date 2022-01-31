@@ -6,6 +6,7 @@
 
     - [Installation](getting-started/installation.md)
     - [Updates](getting-started/updates.md)
+    - [Introduction to ND](getting-started/introduction.md)
 
 - Sketching
 
