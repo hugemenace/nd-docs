@@ -2,7 +2,7 @@
 
 # HugeMenace — ND
 
-> Non-destructive operations, tools, and generators.
+> Non-destructive modelling toolkit for Blender.
 
 [Get it!](https://hugemenace.gumroad.com/l/nd-blender-addon)
 [Installation](/getting-started/installation)
