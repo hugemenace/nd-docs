@@ -1,6 +1,6 @@
 # Ring & Bolt
 
-The Ring and bolt generator helps you to effectively and quickly generated non-destructive circles, rings, triangles, sqaures, and more.
+The Ring and Bolt generator helps you to quickly generate non-destructive triangles, squares, or any n-sided primitive shapes like circles, rings or more.
 
 ## Part 1/2
 
