@@ -12,7 +12,7 @@ and secondly via the N / UI panel next to your other favourite add-ons:
 
 **Overlay/parameter options**
 
-Whenever you use an interactive ND tool, you'll have an overlay appear in the 3D view that follows your cursor.
+Whenever you use an interactive ND tool, an overlay appears in the 3D view that follows your cursor.
 
 ![panel](_media/nd-overlay.jpg)
 
@@ -20,6 +20,6 @@ The active and adjustable parameter will have a blue dot to the left of it's nam
 
 To change parameter values, you use your **mouse wheel** (scroll up and down).
 
-To change the step size for a particular parameter (parameters that are usually denoted with ±), hit **numpad +** or **numpad -** (you can also hit the standard **+** and **-** keys if you don't have a numpad.)
+To change the step size for most parameters (parameters are denoted with ±), hit **numpad +** or **numpad -** (you can also hit the standard **+** and **-** keys if you don't have a numpad.)
 
-If during an operation you find the overlay is getting in the way, simply hit the **P** key to pin the overlay to the bottom right hand corner of the 3D viewport. Hitting **P** again will unpin the overlay, and so forth.
+To disable the overlay from following your cursor, hit the **P** key to pin the overlay to the bottom right of the 3D viewport. Hitting **P** again will unpin the overlay.
