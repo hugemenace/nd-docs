@@ -4,22 +4,32 @@
 
 - Getting Started
 
-    - [Installation](getting-started/installation.md)
-    - [Updates](getting-started/updates.md)
-    - [Introduction to ND](getting-started/introduction.md)
+    - [Introduction](getting-started/introduction.md)
+    - [License](getting-started/license.md)
 
 - Sketching
 
-    - [Face Sketch](sketching/face-sketch.md)
+    - [Geo Lift](sketching/geo-lift.md)
+    - [View Align](sketching/view-align.md)
     - [Blank Sketch](sketching/blank-sketch.md)
     - [Vertex Bevel](sketching/vertex-bevel.md)
 
 - Power Mods
 
-    - [WN Bevel](power-mods/wn-bevel.md)
-    - [Solidify](power-mods/solidify.md)
-    - [Screw](power-mods/screw.md)
+    - [Booleans](power-mods/booleans.md)
+    - [WN Bevel [R]](power-mods/wn-bevel.md)
+    - [Solidify [R]](power-mods/solidify.md)
+    - [Screw [R]](power-mods/screw.md)
 
 - Generators
 
-    - [Ring & Bolt](generators/ring-and-bolt.md)
+    - [Ring & Bolt [R]](generators/ring-and-bolt.md)
+    - [Screw Head](generators/screw-head.md)
+
+- Utils
+
+    - [Name & Data Sync](utils/name-and-data-sync.md)
+    - [High & Low LOD](utils/high-and-low-lod.md)
+    - [Set Origin](utils/set-origin.md)
+    - [Smooth Shading](utils/smooth-shading.md)
+    - [UV Seams](utils/uv-seams.md)

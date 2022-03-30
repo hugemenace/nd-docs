@@ -1,15 +1,15 @@
-# Ring & Bolt
+# Ring and Bolt [R]
 
-The Ring and Bolt generator helps you to quickly generate non-destructive triangles, squares, or any n-sided primitive shapes like circles, rings or more.
+The ring and bolt operator allows you to quickly and easily generate any regular convex polygon (triangles, squares, hexagons, etc.) with an optional additional hole in the center.
 
-## Part 1/2
+![Ring and Bolt Generator](../_media/ring-and-bolt-out.jpg ':size=800')
 
-<div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
-    <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/bby4SGo3Nlo?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+?> **Note:** this operator is "smart" in the sense that it will automatically swich between `width` and `radius` depending on whether you have an `inner radius` set or not, and automatically adjust the value within sensible limits. This will ensure you don't end with strange overlapping geometry.
 
-## Part 2/2
+## Options
 
-<div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
-    <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/9EKs23MXczM?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+| Option | Description |
+| :------ | :----------- |
+| Segments | The number of sides. |
+| Inner Radius | (Optional) The radius of the hole in the center. |
+| Width / Radius | The width of the ring (when used alongside an inner radius) or the radius. |

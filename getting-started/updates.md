@@ -1,3 +1,0 @@
-# Updates
-
-Documentation coming soon.

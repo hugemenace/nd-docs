@@ -1,7 +1,13 @@
-# WN Bevel
+# Weighted Normal Bevel [R]
 
-The weighted normal bevel modifier helps create soft edge bevels on your geometry while only using a single bevel segment.
+The Weighted Normal (WN) bevel operator will allow you to add a single segment bevel to an object, as well as apply a weighted normal modifier to the object — giving the overall illusion of a bevel with many more segments — while keep your triangle count low.
 
-<div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
-    <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/jn9MLaSpeP8?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![Weighted Normal Bevel Operator](../_media/wn-bevel-out.jpg ':size=800')
+
+## Options
+
+| Option | Description |
+| :------ | :----------- |
+| Width | The width of the resulting single segment bevel. |
+
+?> **Tip:** as the weighted normal operator adds a single segment bevel, it's best used with small bevel widths.

@@ -1,7 +1,13 @@
-# Solidify
+# Solidify [R]
 
-Solidify helps you to quickly add depth or thickness to your 2D planar surfaces.
+The Solidify operator will allow you to create a solidified (thickened) version of an object. It's best utilised on sketches, allowing you to create a solidified version of a sketch without destroying the original sketch.
 
-<div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
-    <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/-XQWPwQvX4I?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![Weighted Normal Bevel Operator](../_media/solidify-out.jpg ':size=800')
+
+## Options
+
+| Option | Description |
+| :------ | :----------- |
+| Thickness | The thickness of the solidification. |
+| Weighting | There are 3 weighting options, *Positive*, *Negative*, and *Neutral*. Positive and negative will locate the solidified output inside or outside the original mesh determined by the face normals. With Neutral, the solidified output will be centered on the original mesh. |
+| Offset | The amount of optional offset to apply after solidification (useful when creating cutter objects for boolean operations which need to protrude from the target object in order to work correctly). |
