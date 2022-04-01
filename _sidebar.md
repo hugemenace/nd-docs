@@ -23,7 +23,7 @@
 
 - Generators
 
-    - [Ring & Bolt [R]](generators/ring-and-bolt.md)
+    - [Recon Poly [R]](generators/recon-poly.md)
     - [Screw Head](generators/screw-head.md)
 
 - Utils
