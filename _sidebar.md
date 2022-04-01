@@ -20,6 +20,7 @@
     - [WN Bevel [R]](power-mods/wn-bevel.md)
     - [Solidify [R]](power-mods/solidify.md)
     - [Screw [R]](power-mods/screw.md)
+    - [Mirror](power-mods/mirror.md)
 
 - Generators
 
