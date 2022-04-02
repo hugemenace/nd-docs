@@ -2,7 +2,7 @@
 
 The Solidify operator will allow you to create a solidified (thickened) version of an object. It's best utilised on sketches, allowing you to create a solidified version of a sketch without destroying the original sketch.
 
-![Weighted Normal Bevel Operator](../_media/solidify-out.jpg ':size=800')
+![Solidify Operator](../_media/solidify-out.jpg ':size=800')
 
 ## Options
 
