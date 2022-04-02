@@ -5,6 +5,7 @@
 - Getting Started
 
     - [Introduction](getting-started/introduction.md)
+    - [Changelog](getting-started/changelog.md)
     - [License](getting-started/license.md)
 
 - Sketching
