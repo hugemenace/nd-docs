@@ -21,6 +21,7 @@
     - [Solidify [R]](power-mods/solidify.md)
     - [Screw [R]](power-mods/screw.md)
     - [Mirror](power-mods/mirror.md)
+    - [Profile Extrude [R]](power-mods/profile-extrude.md)
 
 - Generators
 
