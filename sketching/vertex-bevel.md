@@ -1,10 +1,10 @@
 # Vertex Bevel
 
-The Vertex Bevel operator allows you to select any number of vertices and perform a non-destructive bevel on them.
+The Vertex Bevel operator allows you to select any number of vertices and perform a non-destructive bevel.
 
 ![Vertex Bevel Operator](../_media/vertex-bevel-out.jpg ':size=800')
 
-?> **Tip:** you can retroactively bevel any number of vertices by using the Vertex Bevel operator, even after solidifying the sketch.
+?> **Tip:** you can retroactively bevel any number of vertices by using the Vertex Bevel operator, even after performing other operations such as solidify.
 
 ## Options
 

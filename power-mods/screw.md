@@ -1,6 +1,6 @@
 # Screw [R]
 
-The Screw operator will allow you to take an sketch / 2D planar mesh and rotate it around its origin in various various ways.
+The Screw operator will allow you to rotate a mesh around its origin in various ways.
 
 ![Screw Operator](../_media/screw-out.jpg ':size=800')
 

@@ -1,10 +1,10 @@
 # Blank Sketch
 
-The Blank Sketch operator allows you to quickly start with a single vertex and perform a number of extrusions on it to define your 2D shape. When committing the sketch, the resulting geometry will have all closely overlapping (double, triple, etc.) vertices removed and edges/faces filled in if `manifold` is enabled. 
+The Blank Sketch operator allows you to quickly start with a single vertex and perform a number of extrusions on it to define your 2D shape. When the `manifold` option is enabled (it's on by default), the resulting geometry will have all overlapping vertices removed and edges/faces filled in.
 
 ![Blank Sketch Operator](../_media/blank-sketch-out.jpg ':size=800')
 
-?> **Tip:** this operator is a good candidate for using the pause functionality of ND while sketching. Once committed, you can use the solidify operator to convert the sketch into a solid 3D shape.
+?> **Tip:** this operator is a good candidate for using the pause & pin overlay functionality — giving you the freedom to extrude and manipulate the vertices without the operator getting in the way.
 
 ## Options
 
