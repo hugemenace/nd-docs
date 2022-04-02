@@ -1,6 +1,6 @@
 # Solidify [R]
 
-The Solidify operator will allow you to create a thickened version of a mesh. It's mostly commonly used on planar meshes, turning a 2D silhouette into a 3D object.
+The Solidify operator will allow you to create a thickened version of a mesh. It's most commonly used on planar meshes, turning a 2D silhouette into a 3D object.
 
 ![Solidify Operator](../_media/solidify-out.jpg ':size=800')
 
