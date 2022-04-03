@@ -4,6 +4,10 @@ ND (short for non-destructive) is a Blender addon that provides a number of work
 
 This approach is useful for many types of modelling needs, particularly hard-surface forms, while being able to quickly adjust parameters without the need for manual poly-modelling. ND makes extensive use of modifiers to enable this flexible workflow.
 
+<div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
+    <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/R8_zmD1Zn0w?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## How to open it
 
 ND can be accessed in 2 distinct ways, via the N panel, located under the "HugeMenace" tab — or via the shortcut menu bound to **SHIFT + 2** (you can change this under _Edit > Preferences > Keymap_).
