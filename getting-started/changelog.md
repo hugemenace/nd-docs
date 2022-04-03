@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.16.0 (2022-04-03)
+
+
+### Features
+
+* add overlay DPI control to preferences (479710b)
+
+
+### Bug Fixes
+
+* ensure overlay option precision mode indicator is inactive when in pause mode (55ed7ba)
+* ensure that the screw operator calculates the order of edges for correct normals (a991db7)
+
 ## 1.15.0 (2022-04-02)
 
 
