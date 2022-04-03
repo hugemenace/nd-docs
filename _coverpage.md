@@ -4,5 +4,5 @@
 
 > Non-destructive modelling toolkit for Blender.
 
-[Get it!](https://hugemenace.gumroad.com/l/nd-blender-addon)
+[Download](https://hugemenace.gumroad.com/l/nd-blender-addon)
 [Getting Started](/getting-started/introduction)
