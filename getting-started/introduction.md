@@ -46,3 +46,9 @@ Many operator options have a _precision_ mode which can be activated by holding 
 | :------------ | :----------- |
 | ![Overlay Option](../_media/overlay-option.jpg) | An overlay with multiple options. The active option is shown by a blue dot. |
 | ![Overlay Option Precision](../_media/overlay-option-precision-mode.jpg) | An overlay with the active option in _precision_ mode. |
+
+## Adjusting the overlay
+
+If the overlay text is to small to read on your monitor (for instance you're using a 4K resolution) - you can increase the size by adjusting the _Overlay DPI_ in the addon preferences.
+
+![Overlay DPI](../_media/overlay-dpi-out.jpg)
