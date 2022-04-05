@@ -11,3 +11,4 @@ The Mirror operator will allow you to quickly mirror an object across its own or
 | Option | Description |
 | :------ | :----------- |
 | Axis | The axis to mirror across. |
+| Flipped | Whether to flip the mirror axis over (negative). |
