@@ -13,11 +13,11 @@
     - [Geo Lift](sketching/geo-lift.md)
     - [View Align](sketching/view-align.md)
     - [Blank Sketch](sketching/blank-sketch.md)
-    - [Vertex Bevel](sketching/vertex-bevel.md)
 
 - Power Mods
 
     - [Booleans](power-mods/booleans.md)
+    - [Vertex Bevel](power-mods/vertex-bevel.md)
     - [WN Bevel [R]](power-mods/wn-bevel.md)
     - [Solidify [R]](power-mods/solidify.md)
     - [Screw [R]](power-mods/screw.md)
