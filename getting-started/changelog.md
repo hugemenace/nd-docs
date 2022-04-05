@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.17.0 (2022-04-05)
+
+
+### Features
+
+* add a message/button to the shortcut menu & a link to the changelog in the UI panel when an update is available (bd754cb)
+* add bevel operator (126af0d)
+* add circular_array operator (8d6d20e)
+* adjust circular array option order, add even/odd count step, and allow negative arc angles (b9dedf0)
+* ensure mirror modifier bisects selected axis & add flip option for negative axis mirroring (10ddb3d)
+* organise operators by relevance in the shortcut menu (b450ba9)
+* update documentation section on main UI panel & add Discord link (b5c2d0f)
+
+
+### Bug Fixes
+
+* ensure operate is only executed on interactive option mutation (8fa29fc)
+
 ## 1.16.0 (2022-04-03)
 
 
