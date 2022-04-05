@@ -23,6 +23,7 @@
     - [Solidify [R]](power-mods/solidify.md)
     - [Screw [R]](power-mods/screw.md)
     - [Mirror](power-mods/mirror.md)
+    - [Circular Array](power-mods/circular-array.md)
     - [Profile Extrude [R]](power-mods/profile-extrude.md)
 
 - Generators
