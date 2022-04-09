@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.18.0 (2022-04-09)
+
+
+### Features
+
+* add square_array operator and create arrays sub-menu (14ea44e)
+* allow active overlay values to be updated with arrow and WASD keys (dbb30c9)
+
+
+### Bug Fixes
+
+* ensure ND keymap is included in 3D View, Mesh, and Object Mode by default (95498b1)
+
 ## 1.17.0 (2022-04-05)
 
 
