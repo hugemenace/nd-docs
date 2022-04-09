@@ -40,7 +40,7 @@ Most operators while in an interactive mode will have one or more options. These
 
 When pressing and holding the modifier key shown under any option, the option will be activated and the blue dot will be shown next to it. When the modifier key is released, the option will be deactivated and the blue dot will be hidden.
 
-?> **Important:** To change an option's current value, simply use your **mouse scroll wheel** (scroll up to increase and down to decrease).
+?> **Important:** To change an option's current value, simply use your **mouse scroll wheel** (scroll up to increase and down to decrease). In addition, you can also use the **arrow or WASD** keys; **W/D/Up/Right** will increase the current value, and **S/A/Down/Left** will decrease it.
 
 Many operator options have a _precision_ mode which can be activated by holding down the **SHIFT** key. You'll know when an active option is in this mode as the option's blue dot will be half-filled.
 
