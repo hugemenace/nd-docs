@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.19.0 (2022-04-12)
+
+
+### Features
+
+* add hydrate operator (a4aef0f)
+* add option to enable quick favourites on primary menu (1e8805d)
+* add optional late-invocation mode to vertex bevel operator (for post-sketch usage) (ff0ffa4)
+* add ortho_grid to toggle_clear_view operator (5e4f8de)
+* add viewport menu (with various initial toggles) (1d09367)
+* automatically place boolean reference and circular array rotator objects in a utils collection (name configurable in preferences) (eece58b)
+
+
+### Bug Fixes
+
+* ensure all objects in utils collection are toggled along with the collection consistently (1316fff)
+* fix object visibility error in toggle_utils_collection operator (52f3ada)
+
 ## 1.18.0 (2022-04-09)
 
 
