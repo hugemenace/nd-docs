@@ -39,3 +39,4 @@
     - [Set Origin](utils/set-origin.md)
     - [Smooth Shading](utils/smooth-shading.md)
     - [UV Seams](utils/uv-seams.md)
+    - [Hydrate](utils/hydrate.md)
