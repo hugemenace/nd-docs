@@ -5,6 +5,7 @@
 - Getting Started
 
     - [Introduction](getting-started/introduction.md)
+    - [Utils Collection](getting-started/utils-collection.md)
     - [Changelog](getting-started/changelog.md)
     - [License](getting-started/license.md)
 
