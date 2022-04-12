@@ -6,4 +6,4 @@ There are 4 primary types of boolean operations that ND can automate: **Differen
 
 ![Boolean Operator](../_media/boolean-out.jpg ':size=800')
 
-?> **Note:** this operator will set the reference object's viewport display to wireframe, hide the object in renders, parent it to the target object, and prefix its name with "Bool — ". Future versions of the operator will automatically place the reference object in a seperate collection for easier management.
+?> **Note:** this operator will set the reference object's viewport display to wireframe, hide the object in renders, parent it to the target object, prefix its name with "Bool — ", and place the object in the defined utils collection.
