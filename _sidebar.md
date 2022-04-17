@@ -11,9 +11,11 @@
 
 - Sketching
 
+    - [Single Vertex](sketching/single-vertex.md)
+    - [Make Manifold](sketching/make-manifold.md)
     - [Geo Lift](sketching/geo-lift.md)
     - [View Align](sketching/view-align.md)
-    - [Blank Sketch](sketching/blank-sketch.md)
+    - [Blank Sketch (Deprecated)](sketching/blank-sketch.md)
 
 - Power Mods
 

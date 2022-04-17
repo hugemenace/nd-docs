@@ -1,5 +1,26 @@
 # Changelog
 
+### 1.20.1 (2022-04-17)
+
+
+### Bug Fixes
+
+* ensure all scene objects are deselected before executing core single_vertex operator functionality (43b4e6d)
+
+## 1.20.0 (2022-04-17)
+
+
+### Features
+
+* allow customization of overlay pin and pause keybinds (aae7e91)
+* organise addon preferences panel and expose Blender keymap settings (35c26bb)
+* split blank_sketch into single_vertex and make_manifold operators (08f6efe)
+
+
+### Bug Fixes
+
+* fix incorrectly labled profile_extrude overlay alt/ctrl key options (8134622)
+
 ## 1.19.0 (2022-04-12)
 
 

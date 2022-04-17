@@ -4,21 +4,23 @@ ND (short for non-destructive) is a Blender addon that provides a number of work
 
 This approach is useful for many types of modelling needs, particularly hard-surface forms, while being able to quickly adjust parameters without the need for manual poly-modelling. ND makes extensive use of modifiers to enable this flexible workflow.
 
+?> **Note**: The ND addon is under active development, so features or functionality shown in the video below may differ from the current latest version. Check the YouTube channel for updates, or read through the written documentation. We'll endeavour to keep the documentation and videos up to date as we progress 🚀
+
 <div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
     <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/R8_zmD1Zn0w?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## How to open it
 
-ND can be accessed in 2 distinct ways, via the N panel, located under the "HugeMenace" tab — or via the shortcut menu bound to **SHIFT + 2** (you can change this under _Edit > Preferences > Keymap_).
+ND can be accessed in 2 primary ways, via the **N** panel, located under the **HugeMenace** tab — or via the shortcut menu bound to **SHIFT + 2** (you can change this under _Edit > Preferences > Addons > 3D View: HugeMenace — ND > Keymap_).
 
 ## How to use it
 
 The ND addon works in different Blender modes (object & edit) and changes behaviour depending on how many objects you have selected. At any point, you can open the N panel UI or the menu and see which operators are available given your current context (operators which cannot be used will be disabled automatically).
 
-For operators that work interactively, an overlay will appear next to and follow the mouse cursor. If you would like to **pin** the overlay in place, you can hit **P** key. Each press will toggle pinning on/off. 
+For operators that work interactively, an overlay will appear next to and follow the mouse cursor. If you would like to **pin** the overlay in place, you can hit **P** key _(can be customised in preferences)_. Each press will toggle pinning on/off. 
 
-Overlay's have a special **Pause** mode which can be toggled by hitting the backslash key **\**. This will pause the operator and allow you to perform other actions in Blender.
+Overlay's have a special **Pause** mode which can be toggled by hitting the backslash key **\** _(can be customised in preferences)_. This will pause the operator and allow you to perform other actions in Blender.
 
 Certain operators (those with [R] next to their name in the docs) can be **Recalled**. When an operator is recalled, the current modifier settings used by the object be automatically loaded into the overlay, so you can continue where you left off or adjust the previous operation.
 

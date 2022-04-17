@@ -1,4 +1,6 @@
-# Blank Sketch
+# Blank Sketch (Deprecated)
+
+!> **Deprecated**: This operator has been split into two new operators, [Single Vertex](/sketching/single-vertex) and [Make Manifold](/sketching/make-manifold). Blank Sketch will eventually be completely removed from the addon. If you would like to utilise it for the short term, it can be re-enabled in the latest release by turning on "Compatibility Mode" in the addon preferences.
 
 The Blank Sketch operator allows you to quickly start with a single vertex and perform a number of extrusions on it to define your 2D shape. When the `manifold` option is enabled (it's on by default), the resulting geometry will have all overlapping vertices removed and edges/faces filled in.
 
