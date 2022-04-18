@@ -10,6 +10,6 @@ The Vertex Bevel operator allows you to select any number of vertices and perfor
 
 | Option | Description |
 | :------ | :----------- |
-| Segments | The number of segments in the bevel. |
 | Width | The width of the bevel. |
+| Segments | The number of segments in the bevel. |
 | Profile | The profile of the bevel. |

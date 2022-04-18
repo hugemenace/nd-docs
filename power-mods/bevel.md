@@ -8,5 +8,6 @@ The Bevel operator allows you to bevel an object with a specific number of segme
 
 | Option | Description |
 | :------ | :----------- |
-| Segments | The number of segments in the bevel. |
 | Width | The width of the bevel. |
+| Segments | The number of segments in the bevel. |
+| Profile | The profile of the bevel. |

@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.21.0 (2022-04-18)
+
+
+### Features
+
+* add mouse values mode, and integrate all applicable operators (a873f74)
+* add profile option to vanilla bevel operator (ca24b38)
+
+
+### Bug Fixes
+
+* ensure a weld modifier is placed after a vanilla bevel modifier (5cecea6)
+* ensure the previous profile value is retained when summoning & reverting a vanilla bevel operator (733f6ad)
+* fix profile option behaviour on vertex_bevel operator (9f22e77)
+* swap width and segments options on vertex_bevel operator to align with vanilla bevel operator (c9c7e6b)
+* update recon_poly option ordering to better align with other operators (width > segments > etc.) (4c107e9)
+
 ### 1.20.1 (2022-04-17)
 
 

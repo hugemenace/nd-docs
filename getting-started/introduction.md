@@ -44,6 +44,10 @@ When pressing and holding the modifier key shown under any option, the option wi
 
 ?> **Important:** To change an option's current value, simply use your **mouse scroll wheel** (scroll up to increase and down to decrease). In addition, you can also use the **arrow or WASD** keys; **W/D/Up/Right** will increase the current value, and **S/A/Down/Left** will decrease it.
 
+?> **🎉 NEW**: If you enable "Mouse Values" in the addon preferences, you can move your mouse left and right to change any option that has 2 little chevrons to the left of it. See an example overlay below. If you find the values change to drastically while using your mouse, you can adjust the overall sensitivity in the preferences (under "Mouse Value Scalar".)
+
+![Mouse Values Overlay](../_media/mouse-values-overlay.jpg)
+
 Many operator options have a _precision_ mode which can be activated by holding down the **SHIFT** key. You'll know when an active option is in this mode as the option's blue dot will be half-filled.
 
 ?> For certain options, the step size can be altered by hitting the plus and minus keys on the numpad or the keyboard.

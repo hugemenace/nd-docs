@@ -10,6 +10,6 @@ The Recon Poly generator allows you to quickly and easily generate any regular c
 
 | Option | Description |
 | :------ | :----------- |
+| Width / Radius | The width of outer visible area (when used alongside an inner radius) or the radius of the overall polygon. |
 | Segments | The number of sides. |
 | Inner Radius | The radius of the hole in the center. |
-| Width / Radius | The width of outer visible area (when used alongside an inner radius) or the radius of the overall polygon. |
