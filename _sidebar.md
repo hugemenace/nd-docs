@@ -26,6 +26,7 @@
     - [Solidify [R]](power-mods/solidify.md)
     - [Screw [R]](power-mods/screw.md)
     - [Profile Extrude [R]](power-mods/profile-extrude.md)
+    - [Array Cubed [R]](power-mods/array-cubed.md)
     - [Circular Array](power-mods/circular-array.md)
     - [Square Array [R]](power-mods/square-array.md)
     - [Mirror](power-mods/mirror.md)

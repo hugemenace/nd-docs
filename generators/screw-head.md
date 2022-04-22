@@ -16,4 +16,4 @@ The screw head generator will cycle through common screw heads styles, which can
 
 ![Screw Head Generator](../_media/screw-heads-out.jpg ':size=800')
 
-?> **Note:** The screw heads live in a `.blend` file located in the root addon directory under `assets`. You _could_ add additional head types in here manually... however, be warned that when updating the addon your changes will be overwritten. There are plans to support custom assets in the future :)
+?> **Note:** You can supply your own custom screw heads .blend file by setting the path to it in the addon preferences.

@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.23.0 (2022-04-22)
+
+
+### Features
+
+* allow array_cubed count to roll faux negative (9138c66)
+* distinguish between built-in and custom screw head types in the operator overlay, and add additional .blend file cleanup on revert (a37a5bf)
+
+## 1.22.0 (2022-04-22)
+
+
+### Features
+
+* add array_cubed operator and deprecate square_array (d90dec6)
+* add custom screw heads (.blend file) option to addon preferences (539d982)
+* add enhanced axis visualization to array_cubed, mirror, profile_extrude, and screw modifiers (9d2cd74)
+* add toggle for "fast" booleans in addon preferences and set default to true (previously "exact") (43afa87)
+* allow circular_array operator to be run on objects, empties, and at arbitrary rotations (45cb48b)
+* show axes on selected object when using the array_cubed operator (77a2a85)
+
+
+### Bug Fixes
+
+* match target object rotation in set_origin operator (09da9e8)
+
 ## 1.21.0 (2022-04-18)
 
 
