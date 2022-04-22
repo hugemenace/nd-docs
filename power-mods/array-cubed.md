@@ -10,4 +10,4 @@ The Array Cubed operator allows you to array an object on either the X, Y, or Z 
 | :------ | :----------- |
 | Axis | The current axis to configure. |
 | Count | The count for the selected axis. |
-| offset | The relative offset for the selected axis. |
+| Offset | The relative offset for the selected axis. |
