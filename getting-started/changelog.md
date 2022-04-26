@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.24.0 (2022-04-26)
+
+
+### Features
+
+* add alt mode to geo_lift operator to ignore all bevels when calculating selectable geometry (2aff5bc)
+* add bool_inset operator (3f29af5)
+* add edge_bevel operator (9d876f4)
+* add harden normals option to vanilla bevel operator (7827900)
+* add lattice operator (fd6eae0)
+* add mode option shortcut key for bool_inset operator (5fc4d30)
+* add option to lock overlay pin state and position across all operators (0ce0dd7)
+* add outset mode to bool_inset operator (cc8edd7)
+* add toggle option shortcut keys to applicable operators (c10b066)
+* add traditional (now default) and faux origin translation to set_origin utility (5122bae)
+* allow for -360 degree rotation on screw operator (306a3e2)
+* set face strength mode and face influence on wn_bevel modifiers (eb7cd25)
+
+
+### Bug Fixes
+
+* add additional checks to all operator poll methods to avoid selection (and order) based errors (cfdde4c)
+* ensure circular_array operator allows for traditional (now default) and faux origin translation (a21a46c)
+* remove all ND menus from info header bar (db17157)
+* set miter_outer to arc in bevel operator (fc4420b)
+
 ## 1.23.0 (2022-04-22)
 
 
