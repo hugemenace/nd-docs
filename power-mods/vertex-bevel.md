@@ -1,4 +1,4 @@
-# Vertex Bevel
+# Vertex Bevel [R]
 
 The Vertex Bevel operator allows you to select any number of vertices and perform a non-destructive bevel.
 

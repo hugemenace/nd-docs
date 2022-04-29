@@ -20,7 +20,7 @@
 - Power Mods
 
     - [Booleans](power-mods/booleans.md)
-    - [Vertex Bevel](power-mods/vertex-bevel.md)
+    - [Vertex Bevel [R]](power-mods/vertex-bevel.md)
     - [Bevel [R]](power-mods/bevel.md)
     - [WN Bevel [R]](power-mods/wn-bevel.md)
     - [Solidify [R]](power-mods/solidify.md)
