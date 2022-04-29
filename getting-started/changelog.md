@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.25.0 (2022-04-29)
+
+
+### Features
+
+* add clear vertex groups utility (ef5e5d5)
+* add isolated vertices in selection to active group in vertex bevel recall (b62c55c)
+* add recall functionality to vertex bevel operator (7b5cd83)
+* add shortcut for isolated utils menu (dcfdf35)
+
+
+### Bug Fixes
+
+* fix circular array revert behaviour (0d61d74)
+* match target object rotation in circular_array operator (7ea17b0)
+* remove set rotation from faux set_origin (e371881)
+* replace center of volume with bounding box calculation in lattice operator (22add82)
+
 ## 1.24.0 (2022-04-26)
 
 
