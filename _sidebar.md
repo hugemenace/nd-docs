@@ -15,7 +15,6 @@
     - [Make Manifold](sketching/make-manifold.md)
     - [Geo Lift](sketching/geo-lift.md)
     - [View Align](sketching/view-align.md)
-    - [Blank Sketch (Deprecated)](sketching/blank-sketch.md)
 
 - Power Mods
 
@@ -28,7 +27,6 @@
     - [Profile Extrude [R]](power-mods/profile-extrude.md)
     - [Array Cubed [R]](power-mods/array-cubed.md)
     - [Circular Array](power-mods/circular-array.md)
-    - [Square Array [R]](power-mods/square-array.md)
     - [Mirror](power-mods/mirror.md)
 
 - Generators
