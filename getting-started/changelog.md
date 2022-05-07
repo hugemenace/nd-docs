@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.26.0 (2022-05-07)
+
+
+### Features
+
+* add enter & space key presses as additional operator finalisation events (5e3eb6f)
+* add modifier & utility cycle operator (73bf7a3)
+* add option to mirror across faces, edges, or vertices on selected object (1ebc4ac)
+* add shift option to vanilla boolean operator to protect reference object (do not convert into utility) (9efae25)
+* add simple_deform operator (d5acf67)
+* add triangulate modifier (2e990f8)
+* allow for multiple utils to be selected with cycle operator (8bb923b)
+* allow mirror modifier to be applied to multiple objects simultaneously (80467d1)
+* automatically set geometry mirror axis to Z and flipped (426ed79)
+* move sketch operators into their own sub-menu (08bb8fd)
+* tidy up main menu by creating Replication and Deformation sub menus to house appropriate operators (6cf9461)
+
+
+### Bug Fixes
+
+* ensure boolean operators isolate the reference object in the utils collection (14dfdf4)
+* ensure mirror empty object is removed if mirror operator is cancelled after geometry selection (9c13ab6)
+* fix alt key value change behaviour on cycle operator (9efadc8)
+* fix geo_lift operator event handling order (447c654)
+* fix recon poly width option overlay display value (8413096)
+* fix reference/target object parenting in circular_array operator (7df4058)
+* fix up mirror across geometry invalid selection cleanup logic (97873a4)
+* update set_lod_suffix mode type in utils_menu (73aa1e7)
+
 ## 1.25.0 (2022-04-29)
 
 
