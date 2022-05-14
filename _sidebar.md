@@ -1,51 +1,83 @@
 - Home
     
     - [Welcome](/)
+    - [Introduction](/getting-started/introduction)
+    - [Shortcuts](/getting-started/shortcuts)
+    - [Preferences](/getting-started/preferences)
+    - [Changelog](/getting-started/changelog)
+    - [License](/getting-started/license)
 
-- Getting Started
+- Standalone
 
-    - [Introduction](getting-started/introduction.md)
-    - [Utils Collection](getting-started/utils-collection.md)
-    - [Changelog](getting-started/changelog.md)
-    - [License](getting-started/license.md)
+    - [Cycle](/standalone/cycle)
+    - [Recon Poly (R)](/standalone/recon-poly)
+    - [Screw Head](/standalone/screw-head)
 
-- Sketching
+- Sketch
 
-    - [Single Vertex](sketching/single-vertex.md)
-    - [Make Manifold](sketching/make-manifold.md)
-    - [Geo Lift](sketching/geo-lift.md)
-    - [View Align](sketching/view-align.md)
+    - [Single Vertex](/sketch/single-vertex)
+    - [Make Manifold](/sketch/make-manifold)
+    - [View Align](/sketch/view-align)
+    - [Geo Lift](/sketch/geo-lift)
 
-- Power Mods
+- Booleans
 
-    - [Booleans](power-mods/booleans.md)
-    - [Vertex Bevel [R]](power-mods/vertex-bevel.md)
-    - [Bevel [R]](power-mods/bevel.md)
-    - [WN Bevel [R]](power-mods/wn-bevel.md)
-    - [Solidify [R]](power-mods/solidify.md)
-    - [Screw [R]](power-mods/screw.md)
-    - [Profile Extrude [R]](power-mods/profile-extrude.md)
-    - [Array Cubed [R]](power-mods/array-cubed.md)
-    - [Circular Array](power-mods/circular-array.md)
-    - [Mirror](power-mods/mirror.md)
+    - [Difference](/booleans/difference)
+    - [Union](/booleans/union)
+    - [Intersect](/booleans/intersect)
+    - [Slice](/booleans/slice)
+    - [Inset / Outset](/booleans/inset-outset)
 
-- Generators
+- Bevels
 
-    - [Recon Poly [R]](generators/recon-poly.md)
-    - [Screw Head](generators/screw-head.md)
+    - **Edit Mode**
+        - [Vertex (R)](/bevels/vertex)
+        - [Edge (R)](/bevels/edge)
+
+    - **Object Mode**
+        - [Bevel (R)](/bevels/bevel)
+        - [WN Bevel (R)](/bevels/wn-bevel)
+
+- Extrusion
+
+    - [Solidify (R)](/extrusion/solidify)
+    - [Screw (R)](/extrusion/screw)
+    - [Profile Extrude (R)](/extrusion/profile-extrude)
+
+- Replicate
+
+    - [Array³ (R)](/replicate/array-cubed)
+    - [Circular Array (R)](/replicate/circular-array)
+    - [Mirror](/replicate/mirror)
+
+- Deform
+
+    - [Lattice (R)](/replicate/lattice)
+    - [Simple Deform (R)](/replicate/simple-deform)
 
 - Utils
 
-    - [Name & Data Sync](utils/name-and-data-sync.md)
-    - [High & Low LOD](utils/high-and-low-lod.md)
-    - [Set Origin](utils/set-origin.md)
-    - [Smooth Shading](utils/smooth-shading.md)
-    - [UV Seams](utils/uv-seams.md)
-    - [Hydrate](utils/hydrate.md)
+    - **Object Names**
+        - [Name & Data Sync](/utils/name-data-sync)
+        - [Low / High LOD](/utils/low-high-lod)
+
+    - **Object Transform**
+        - [Set Origin](/utils/set-origin)
+        - [Snap Align](/utils/snap-align)
+
+    - **Object Properties**
+        - [Smooth Shading](/utils/smooth-shading)
+        - [UV Seams](/utils/uv-seams)
+        - [Clear Vertex Groups](/utils/clear-vertex-groups)
+        - [Triangulate](/utils/triangulate)
+    
+    - **Miscellaneous**
+        - [Hydrate](/utils/hydrate)
+        - [Flare Lighting (R)](/utils/flare-lighting)
 
 - Viewport
 
-    - [Wireframes](viewport/wireframes.md)
-    - [Face Orientation](viewport/face-orientation.md)
-    - [Utils Visibility](viewport/utils-visibility.md)
-    - [Clear View](viewport/clear-view.md)
+    - [Wireframes](/utils/wireframes)
+    - [Face Orientation](/utils/face-orientation)
+    - [Utils Visibility](/utils/utils-visibility)
+    - [Clear View](/utils/clear-view)
