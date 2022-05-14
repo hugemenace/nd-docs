@@ -2,6 +2,8 @@
 
 The Mirror operator will mirror the selected object across the given axis or selected geometry.
 
+[](../_media/mirror.mp4 ':include')
+
 ## Alternative modes
 
 Hold down the shortcut when selecting the operator to enter the respective mode.

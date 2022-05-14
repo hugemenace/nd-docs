@@ -2,6 +2,8 @@
 
 The Simple Deform operator will allow you to Twist, Bend, Taper, or Stretch the selected object.
 
+[](../_media/simple-deform.mp4 ':include')
+
 ## Options
 
 ### Taper and Stretch methods

@@ -2,6 +2,8 @@
 
 The Recon Poly operator generates regular convex polygons. It also additionally supports adding a cutout to the centre of the polygon to create rings.
 
+[](../_media/recon-poly.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

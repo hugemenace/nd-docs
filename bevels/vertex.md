@@ -2,6 +2,8 @@
 
 The Vertex Bevel operator will perform a vertex specific bevel, allowing you to customise the width, segments, and profile.
 
+[](../_media/vertex-bevel.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

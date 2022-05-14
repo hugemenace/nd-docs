@@ -2,6 +2,8 @@
 
 The Circular Array operator will array the selected object along a given axis (X, Y, Z) in a circular fashion.
 
+[](../_media/circular-array.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

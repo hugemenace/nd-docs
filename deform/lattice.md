@@ -2,6 +2,8 @@
 
 The Lattice operator will enclose the select object in a lattice, and apply a lattice modifier which can be used to deform the object.
 
+[](../_media/lattice.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

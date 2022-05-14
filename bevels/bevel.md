@@ -2,6 +2,8 @@
 
 The Bevel operator will perform standard bevel, allowing you to customise the width, segments, and profile.
 
+[](../_media/bevel.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

@@ -2,6 +2,8 @@
 
 The Solidify operator will add thickness to any selected 2D or 3D object. It is well suited for turning a sketch or cross-section into workable 3D geometry.
 
+[](../_media/solidify.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

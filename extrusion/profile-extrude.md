@@ -2,6 +2,8 @@
 
 The Profile Extrude operator will take a profile and extrude (solidify) it along a given axis.
 
+[](../_media/profile-extrude.mp4 ':include')
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
