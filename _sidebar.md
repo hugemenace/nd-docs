@@ -52,8 +52,8 @@
 
 - Deform
 
-    - [Lattice (R)](/replicate/lattice)
-    - [Simple Deform (R)](/replicate/simple-deform)
+    - [Lattice (R)](/deform/lattice)
+    - [Simple Deform (R)](/deform/simple-deform)
 
 - Utils
 
