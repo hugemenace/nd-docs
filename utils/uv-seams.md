@@ -1,12 +1,10 @@
 # UV Seams
 
-The UV Seams operator will allow you to interactively set the UV seams for an object based on a specified edge selection angle.
+The UV Seams operator will allow you to interactively set the UV seams of the selected object based on the angle of each edge.
 
-![UV Seams Operator](../_media/uv-seams-out.jpg ':size=800')
+## Options
 
-!> **Note:** this operator should only be used on objects which have had their modifiers collapsed and may have poor performance on objects with many edges. Future versions of this operator will address these issues.
-
-| Option | Description |
-| :------ | :----------- |
-| Angle | The minimum angle at which seams will be automatically added to edges. |
-| Sync Auto Smooth | Whether or not to update the object's current auto smooth angle to match the selected seam angle. |
+| Option | Shortcut | Mouse Value Compatible | Description |
+| :--- | :--- | :--- | :--- |
+| Angle | _None_ | **Yes** | The maximum angle at which an edge will be considered a seam |
+| Sync Auto Smooth | **`V`** | **Yes** | Whether to also set the object's auto-smooth angle to match |

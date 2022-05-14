@@ -1,9 +1,11 @@
 # Set Origin
 
-The Set Origin operator will translate the reference object to the origin of the target object, and then use displacement modifiers to "virtually" translate the reference object back to its original position. This is extremely useful when trying to perform circular arrays on non-destructive objects (eg. Recon Poly) which rely on precise origin placement.
+The Set Origin operator will set the reference object's origin point to that of the active object.
 
-!> In order to make use of this operator, first select the target object and then the reference object's origin you'd like to mimic.
+## Alternative modes
 
-![Set Origin Operator](../_media/set-origin-out.jpg ':size=800')
+Hold down the shortcut when selecting the operator to enter the respective mode.
 
-!> **Note:** This operation should be thought of as a "virtual translation". For cases where you're not dealing with a non-destructive object, Blender's built-in origin management functionality is preferred.
+| Shortcut | Description |
+| :--- | :--- |
+| **`ALT`** | Use displacement modifiers to "virtually" set the origin of the object while keeping its current position in the scene intact |
