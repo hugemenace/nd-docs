@@ -77,7 +77,7 @@
 
 - Viewport
 
-    - [Wireframes](/utils/wireframes)
-    - [Face Orientation](/utils/face-orientation)
-    - [Utils Visibility](/utils/utils-visibility)
-    - [Clear View](/utils/clear-view)
+    - [Wireframes](/viewport/wireframes)
+    - [Face Orientation](/viewport/face-orientation)
+    - [Utils Visibility](/viewport/utils-visibility)
+    - [Clear View](/viewport/clear-view)
