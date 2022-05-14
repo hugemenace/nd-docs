@@ -2,7 +2,7 @@
 
 ## Sketch
 
-Sketching in ND is all about creating 2D planar surfaces that define the profile of cross-section of a 3D object. These surfaces are generally extruded using operators such as [Solidify](/extrusion/solidify), [Profile Extrude](/extrusion/profile-extrude), or [Screw](/extrusion/screw). They're an elemental starting point for non-destructive geometry, however certainly not required (using 3D primitives is also fairly common).
+Sketching in ND is all about creating 2D planar surfaces that define the profile or cross-section of a 3D object. These surfaces are generally extruded using operators such as [Solidify](/extrusion/solidify), [Profile Extrude](/extrusion/profile-extrude), or [Screw](/extrusion/screw). They're an common starting point for non-destructive geometry.
 
 [Sketch Extrude](../_media/sketch-extrude.mp4 ':include')
 
