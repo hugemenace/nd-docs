@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.27.0 (2022-05-14)
+
+
+### Features
+
+* add Flare (Lighting) operator (83e9be0)
+* add option to automatically run solidify after a recon poly operation (9a5dff3)
+* add option to capture 2 points in snap_align to align the selected object at the midpoint (21b7a0a)
+* add recall ability to circular_array operator (1ff93e8)
+* add snap_align operator (7548c66)
+* add temporary triangulation to active object during snap_align operations to increase face points (640bc8c)
+* allow circular_array operator to be used on a single selected object, and alter origin/translation logic (d273720)
+* allow snapping to occur through objects occluding the target while using snap_align (8301845)
+* enhance lattice modifier behaviour and allow it to be recalled (10dc6f9)
+* hide circular_array empties on completion and give them an appropriate name (c04c466)
+
+
+### Bug Fixes
+
+* ensure active boolean utils don't affect the geometry of the target object while using snap_align (e796693)
+* ensure guideline in snap_align operator is cleared when capture rotation is reset (374ad50)
+* ensure mirror selected object show_in_front mode is disabled on complete/cancel (e2d0e07)
+* ensure simple deform angle decrements as intended using the step_down key event (9e7b91a)
+* ensure snap_align operator supports meshes with vastly different edge lengths (e9de396)
+* ensure that the reference object is solo-selected when completing a snap_align operation (73ff168)
+* fix circular array revert behaviour for single object mode (f14b5d2)
+* fix error when using cycle operator on objects with objectless booleans in their modifier stack (d1bc6cf)
+* fix left-click handling for operators that need to pass through the event (8a335b2)
+* fix mirror over geometry empty's matrix parent inverse (9a16503)
+* fix up circular_array and lattice overlay option control key labels (22e7e54)
+* only detect click events on release when using interactive operators (ee19d30)
+* remove light energy offset limits (1eb7964)
+
 ## 1.26.0 (2022-05-07)
 
 
