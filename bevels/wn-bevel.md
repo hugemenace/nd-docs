@@ -9,3 +9,5 @@ The Weighted-Normal (WN) Bevel operator will perform standard 1 segment bevel, f
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Width | _None_ | **Yes** | The width of the bevel |
+| Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
+| Angle | **`A`** | No | The bevel's edge angle limit (30, 45, or 60 degrees) |

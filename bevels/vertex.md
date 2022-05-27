@@ -4,6 +4,15 @@ The Vertex Bevel operator will perform a vertex specific bevel, allowing you to 
 
 [](../_media/vertex-bevel.mp4 ':include')
 
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`SHIFT`** | Place modifier at the bottom of the stack (post-sketch operations) |
+| **`ALT`** | Create a vertex group **edge** bevel |
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
@@ -11,3 +20,4 @@ The Vertex Bevel operator will perform a vertex specific bevel, allowing you to 
 | Width | _None_ | **Yes** | The width of the bevel |
 | Segments | _None_ | No | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
+| Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |

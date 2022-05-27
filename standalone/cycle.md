@@ -12,11 +12,11 @@ It also offers an alternative "Modifier" mode which allows you to scrub through 
 | :--- | :--- | :--- | :--- |
 | Utility | _None_ | No | The current active / selected utility |
 | Frozen | **`F`** | No | Whether to freeze (keep selected) the current utility |
-| Mode | **`R`** | No | Switch between utility and modifier mode |
+| Mode | **`M`** | No | Switch between utility and modifier mode |
 
 ### Modifier Mode
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Modifier | _None_ | No | The current active / visible modifier (with all modifiers preceding it being visible) |
-| Mode | **`R`** | No | Switch between utility and modifier mode |
+| Mode | **`M`** | No | Switch between utility and modifier mode |

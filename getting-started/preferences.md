@@ -6,7 +6,9 @@
 | --- | --- |
 | **Utils Collection Name** | The name of the automatically created collection where all util objects are placed |
 | **Use Fast Booleans** | Whether to use the "FAST" solver option on boolean modifiers, or the "EXACT" solver option |
+| **Bevel / Smooth Angle** | The default angle to use for bevel and smoothing operations (30, 45, or 60 degrees) |
 | **Custom Screw Heads** | A path to a custom `.blend` file containing screw heads to be used in addition to the default set provided by the [Screw Head Operator](/standalone/screw-head) |
+| **Enable Update Checks** | Will automatically check if a new version of the addon is available when Blender starts |
 | **Compatibility Mode** | Whether to show deprecated (legacy) features in the UI |
 
 ## UI

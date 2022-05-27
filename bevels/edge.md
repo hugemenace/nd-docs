@@ -6,6 +6,14 @@ The Edge Bevel operator will perform a edge specific bevel, allowing you to cust
 
 [](../_media/edge-bevel.mp4 ':include')
 
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`SHIFT`** | Place modifier at the top of the stack |
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

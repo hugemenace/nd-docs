@@ -9,5 +9,5 @@ The Profile Extrude operator will take a profile and extrude (solidify) it along
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Extrusion | _None_ | **Yes** | The total amount of extrusion |
-| Weighting | **`T`** | No | The weighting/direction of the extrusion (positive, neutral, or negative) |
-| Axis | **`R`** | No | The axis to extrude along |
+| Weighting | **`W`** | No | The weighting/direction of the extrusion (positive, neutral, or negative) |
+| Axis | **`A`** | No | The axis to extrude along |

@@ -9,5 +9,5 @@ The Solidify operator will add thickness to any selected 2D or 3D object. It is 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Thickness | _None_ | **Yes** | The thickness of the solidification |
-| Weighting | **`T`** | No | The weighting/direction of the solidification (positive, neutral, or negative) |
+| Weighting | **`W`** | No | The weighting/direction of the solidification (positive, neutral, or negative) |
 | Offset | _None_ | **Yes** | The normal displacement of the solidification |

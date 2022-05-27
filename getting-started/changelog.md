@@ -1,5 +1,39 @@
 # Changelog
 
+## 1.28.0 (2022-05-27)
+
+
+### Features
+
+* add alt mode to vertex bevel to create a vertex group edge bevel (77cfff4)
+* add an option to custom default smoothing angle and update & add it across all relevant operators (ed02679)
+* add apply_modifiers utility (1ec0150)
+* add cycle operator to fast menu for objects with boolean modifiers present (a71896c)
+* add decimate and weld operators under the new simplify menu (1c7b454)
+* add edge angle limit option to bevel and weight_normal_bevel operators (c44e0b1)
+* add enhanced wireframe mode toggle to all bevel operators (03933cf)
+* add fast prediction menu (eb26d59)
+* add flip normals option to screw operator (768f1be)
+* add natural rotation option to recon poly (980fde9)
+* add option to place modifiers at the top/bottom of the stack across edge_bevel, vertex_bevel, and mirror (fc08803)
+* add swap_solver utility (5481109)
+* add the option to disable automatic update checks in preferences (fbcb91d)
+* allow for manual values to be supplied to overlay & optimise operator overlay options (bffaf72)
+* allow hydrate utility to be run on multiple selected objects (12fc16e)
+* automatically move booleans under WN bevels and single segment HN bevels (1170f08)
+* bind the fast menu to F and add a shortcut for Blender's underlying make edge/face operator (b211a23)
+* improve the mod ordering logic and apply it to the weld and decimate modifiers (5307ed0)
+
+
+### Bug Fixes
+
+* add a check to apply_modifiers for disabled modifiers and remove them instead of applying (ffc655a)
+* add missing draw_hint import to edge_bevel operator (7aec17d)
+* display no prediction message when in edit mode and no precondition matches (7154241)
+* fix up has_mod_* logic in fast menu single object predictions (3f27ee3)
+* fix weighting calculation in profile_extrude operator (4cd46fb)
+* remove triangulate modifier & switch v3_average for .calc_center_median for face points in snap_align operator (0842b3c)
+
 ## 1.27.0 (2022-05-14)
 
 

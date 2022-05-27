@@ -11,3 +11,4 @@ The Recon Poly operator generates regular convex polygons. It also additionally 
 | Radius / Width | _None_ | **Yes** | The overall radius or width |
 | Segments | _None_ | No | The number of segments (sides) |
 | Inner Radius | _None_ | **Yes** | The inner radius (hole size) |
+| Natural Rotation | **`R`** | No | Ensure the rightmost edge is perpendicular to the X axis |

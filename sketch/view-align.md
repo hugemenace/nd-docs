@@ -8,4 +8,4 @@ The View Align operator will create a virtual copy of the selected object with m
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
-| Selection Type | _None_ | No | The geometry selection type (Vertex, Edge, or Face) |
+| Selection Type | **`S,1,2,3`** | No | The geometry selection type (Vertex, Edge, or Face) |

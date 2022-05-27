@@ -56,6 +56,11 @@
     - [Lattice (R)](/deform/lattice)
     - [Simple Deform (R)](/deform/simple-deform)
 
+- Simplify
+
+    - [Decimate](/simplify/decimate)
+    - [Weld](/simplify/weld)
+
 - Utils
 
     - **Object Names**
@@ -71,9 +76,11 @@
         - [UV Seams](/utils/uv-seams)
         - [Clear Vertex Groups](/utils/clear-vertex-groups)
         - [Triangulate](/utils/triangulate)
+        - [Apply Modifiers](/utils/apply-modifiers)
     
     - **Miscellaneous**
         - [Hydrate](/utils/hydrate)
+        - [Swap Solver](/utils/swap-solver)
         - [Flare Lighting (R)](/utils/flare-lighting)
 
 - Viewport

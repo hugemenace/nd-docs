@@ -11,10 +11,11 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Shortcut | Description |
 | :--- | :--- |
 | **`ALT`** | Mirror across geometry (you will be prompted to select which geometry to use as a mirror object) |
+| **`SHIFT`** | Place modifier at the top of the stack |
 
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
-| Axis | **`R`** | No | The axis to mirror across |
+| Axis | **`A`** | No | The axis to mirror across |
 | Flipped | **`F`** | No | Whether to flip the effect of the mirror |
