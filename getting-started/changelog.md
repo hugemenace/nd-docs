@@ -1,5 +1,21 @@
 # Changelog
 
+### 1.28.3 (2022-05-28)
+
+
+### Bug Fixes
+
+* fix modifier stack ordering when vertex bevel + weld modifiers are present (4b6a4da)
+
+### 1.28.2 (2022-05-27)
+
+### 1.28.1 (2022-05-27)
+
+
+### Bug Fixes
+
+* fix unexpected float error in Blender 3.1 and limit the possibility of dividing by zero errors on manual user input (1cdac6c)
+
 ## 1.28.0 (2022-05-27)
 
 
