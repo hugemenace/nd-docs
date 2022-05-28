@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.28.4 (2022-05-28)
+
+
+### Bug Fixes
+
+* add additional checks to bevel types in automatic modifier reordering logic (73ce5cf)
+
 ### 1.28.3 (2022-05-28)
 
 
