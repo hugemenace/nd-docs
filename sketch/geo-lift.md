@@ -10,7 +10,7 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 | Shortcut | Description |
 | :--- | :--- |
-| **`SHIFT`** | Ignore all bevels in the modifier stack when calculating selectable geometry |
+| **`SHIFT`** | Do not clean duplicate mesh before extraction |
 
 ## Options
 

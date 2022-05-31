@@ -11,15 +11,17 @@
 - Standalone
 
     - [Cycle](/standalone/cycle)
-    - [Recon Poly (R)](/standalone/recon-poly)
-    - [Screw Head](/standalone/screw-head)
 
 - Sketch
 
     - [Single Vertex](/sketch/single-vertex)
     - [Make Manifold](/sketch/make-manifold)
+    - [Clear Vertex Groups](/sketch/clear-vertex-groups)
     - [View Align](/sketch/view-align)
     - [Geo Lift](/sketch/geo-lift)
+    - [Panel](/sketch/panel)
+    - [Recon Poly (R)](/sketch/recon-poly)
+    - [Screw Head](/sketch/screw-head)
 
 - Booleans
 
@@ -28,16 +30,15 @@
     - [Intersect](/booleans/intersect)
     - [Slice](/booleans/slice)
     - [Inset / Outset](/booleans/inset-outset)
+    - [Hydrate](/booleans/hydrate)
+    - [Swap Solver](/booleans/swap-solver)
 
 - Bevels
 
-    - **Edit Mode**
-        - [Vertex (R)](/bevels/vertex)
-        - [Edge (R)](/bevels/edge)
-
-    - **Object Mode**
-        - [Bevel (R)](/bevels/bevel)
-        - [WN Bevel (R)](/bevels/wn-bevel)
+    - [Vertex (R)](/bevels/vertex)
+    - [Edge (R)](/bevels/edge)
+    - [Bevel (R)](/bevels/bevel)
+    - [WN Bevel (R)](/bevels/wn-bevel)
 
 - Extrusion
 
@@ -63,25 +64,15 @@
 
 - Utils
 
-    - **Object Names**
-        - [Name & Data Sync](/utils/name-data-sync)
-        - [Low / High LOD](/utils/low-high-lod)
-
-    - **Object Transform**
-        - [Set Origin](/utils/set-origin)
-        - [Snap Align](/utils/snap-align)
-
-    - **Object Properties**
-        - [Smooth Shading](/utils/smooth-shading)
-        - [UV Seams](/utils/uv-seams)
-        - [Clear Vertex Groups](/utils/clear-vertex-groups)
-        - [Triangulate](/utils/triangulate)
-        - [Apply Modifiers](/utils/apply-modifiers)
-    
-    - **Miscellaneous**
-        - [Hydrate](/utils/hydrate)
-        - [Swap Solver](/utils/swap-solver)
-        - [Flare Lighting (R)](/utils/flare-lighting)
+    - [Name & Data Sync](/utils/name-data-sync)
+    - [Low / High LOD](/utils/low-high-lod)
+    - [Set Origin](/utils/set-origin)
+    - [Snap Align](/utils/snap-align)
+    - [Smooth Shading](/utils/smooth-shading)
+    - [UV Seams](/utils/uv-seams)
+    - [Triangulate](/utils/triangulate)
+    - [Apply Modifiers](/utils/apply-modifiers)
+    - [Flare Lighting (R)](/utils/flare-lighting)
 
 - Viewport
 
