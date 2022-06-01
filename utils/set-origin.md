@@ -8,4 +8,4 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 | Shortcut | Description |
 | :--- | :--- |
-| **`ALT`** | Use displacement modifiers to "virtually" set the origin of the object while keeping its current position in the scene intact |
+| **`ALT`** | Use displacement modifiers to "virtually" set the origin of the object |

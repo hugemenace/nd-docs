@@ -4,6 +4,14 @@ The Circular Array operator will array the selected object along a given axis (X
 
 [](../_media/circular-array.mp4 ':include')
 
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`ALT`** | Use displacement modifiers to "virtually" set the origin of the object |
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
