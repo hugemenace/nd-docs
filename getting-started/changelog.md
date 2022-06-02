@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.29.0 (2022-06-02)
+
+
+### Features
+
+* add hard-apply mode to apply_modifiers utility, and exclude regular multi segment edge bevels from normal usage (a5ee288)
+* add mirror operator to the fast menu for profile predictions (74f2545)
+* add ND theme (color) options to preferences (1d25644)
+* add panel operator (a4e76aa)
+* add recon poly detection to fast menu (de87d9b)
+* add remaining boolean operations to the fast menu (5db12e6)
+* add shift alt-mode to set_origin utility to undo faux origin translations (43202bf)
+* add solidify and profile extrude options to the fast menu when operators have been previously performed on the selected object (84fa5a0)
+* clean up duplicated mesh by default when using geo_lift or panel operators, with option to preserve geometry (d27a8ab)
+* detect additional existing mods in fast menu (c0a5963)
+* ensure starting geometry is reselected when reverting geo_lift operator (321d2c9)
+* harden up circular_array operator, add displacement axis option, and regular/faux origin alt mode (48b5040)
+
+
+### Bug Fixes
+
+* add an additional clause to the circular_array poll method (11dc8ee)
+* add missing continue statements in create_duplicate_liftable_geometry (c6c9aad)
+* ensure the inset stage only begins if one or more faces have been selected when using the panel operator (fd26650)
+* ensure the reference object origin is restored when cancelling a new circular array operation (00be593)
+* fix mod reference error in create_duplicate_liftable_geometry function in object library (979646d)
+* fix profile extrude recall and revert behaviour (a9a870d)
+* fix recon poly local Z axis natural rotation and recall ability (85e91a1)
+* tidy up and fix undesired relative offset behaviour in panel operator (91bbb06)
+
 ### 1.28.4 (2022-05-28)
 
 
