@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.30.0 (2022-06-06)
+
+
+### Features
+
+* add additional screw head types (@Shaddow) (b130d78)
+* add better boolean and sketch detection in the fast prediction menu (3c06550)
+* add clean_utils operator (3f4e47b)
+* perform additional geometry cleanup when extracting faces using the panel operator (9e53d4b)
+
+
+### Bug Fixes
+
+* ensure boolean swap_solver updates only apply to objects referencing the selected utils (6845d30)
+* ensure clean_utils also handles mirror and array empty objects in utils collection (43c0c82)
+* ensure that individual faces cannot be toggled until the inset stage in the panel operator (e6cb10f)
+* fix create_duplicate_liftable_geometry object_name parameter being overridden (11d7b4b)
+* fix error when using swap solver on a utility referenced by an object with invalid boolean modifiers present (20045ed)
+* fix NoneType object error when cycling through a utility object (4a5a402)
+
 ## 1.29.0 (2022-06-02)
 
 
