@@ -72,6 +72,7 @@
     - [UV Seams](/utils/uv-seams)
     - [Triangulate](/utils/triangulate)
     - [Apply Modifiers](/utils/apply-modifiers)
+    - [Clean Utils](/utils/clean-utils)
     - [Flare Lighting (R)](/utils/flare-lighting)
 
 - Viewport
