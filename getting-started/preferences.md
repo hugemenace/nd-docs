@@ -6,6 +6,8 @@
 | --- | --- |
 | **Utils Collection Name** | The name of the automatically created collection where all util objects are placed |
 | **Use Fast Booleans** | Whether to use the "FAST" solver option on boolean modifiers, or the "EXACT" solver option |
+| **Automatically run Solidify after Recon Poly** | When enabled, will automatically invoke the Solidify operator after finishing a Recon Poly operation |
+| **Automatically set Recon Poly extents to Inscribed (vs. Circumscribed)** | When enabled, will set the default extents mode for Recon Poly to "Inscribed" |
 | **Bevel / Smooth Angle** | The default angle to use for bevel and smoothing operations (30, 45, or 60 degrees) |
 | **Custom Screw Heads** | A path to a custom `.blend` file containing screw heads to be used in addition to the default set provided by the [Screw Head Operator](/standalone/screw-head) |
 | **Enable Update Checks** | Will automatically check if a new version of the addon is available when Blender starts |
@@ -26,3 +28,7 @@
 ## Keymap
 
 Contains the keymap for all of the customisable addon [shortcuts](/getting-started/shortcuts).
+
+## Theme
+
+Contains customisable theme color settings for the addon, and the option to revert back to the default theme.

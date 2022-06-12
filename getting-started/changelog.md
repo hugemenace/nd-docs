@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.31.0 (2022-06-12)
+
+
+### Features
+
+* add clean geometry logic to view align, and allow view align to be immediately invoked on applicable geometry with an alt mode (db144a6)
+* add collapsible sections and common shortcuts to the N panel menu (e57bc0d)
+* add inscribed and circumscribed options to recon_poly operator (fa724c4)
+* add the panel, geo_lift, and view_align operators to fast menu single object form predictions (94ea2ca)
+* automatically collapse new modifiers added to objects (752de82)
+* extend inscribed and circumscribed feature to recon_poly inner_radius option & fix recall/revert behaviour (1611885)
+* remove problematic bevels from all boolean reference objects (6349c4d)
+
+
+### Bug Fixes
+
+* ensure viewport camera is always set to orthographic when using view_align operator (ee5c03d)
+* fix array_cubed count reset behaviour while respecting the currently specified offset value (a1d5ca5)
+* fix direct object view_align operation when utilising edges or vertices (c5059eb)
+* fix mirror across geometry behaviour and unneeded show_in_front assignment for evaluated geometry (bd0f14f)
+* fix up single and multi-object geometry mirror object evaluation and empty parenting (e7220ad)
+
 ## 1.30.0 (2022-06-06)
 
 

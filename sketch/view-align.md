@@ -4,6 +4,15 @@ The View Align operator will create a virtual copy of the selected object with m
 
 [](../_media/view-align.mp4 ':include')
 
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`SHIFT`** | Do not clean duplicate mesh before extraction |
+| **`ALT`** | Skip geometry selection and use the active object |
+
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
