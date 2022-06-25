@@ -1,5 +1,37 @@
 # Changelog
 
+## 1.32.0 (2022-06-25)
+
+
+### Features
+
+* add an option to toggle the sidebar / N-panel (0799e0b)
+* add calculate edges option to profile_extrude operator (8d6ead4)
+* add extrusion mode option to solidify operator (5011a6f)
+* add interpolation mode to lattice operator and default to linear (9fdd252)
+* add offset option to profile_extrude operator (e62687c)
+* add solidify option to fast menu for non-manifold meshes (a14b819)
+* add the ability to recall previous edge bevel weights (e381ab3)
+* add toggle wireframe and disable utility modifier options to cycle operator (a3a0bbc)
+* enhance profile extrusion and solidification predictions in the Fast menu (539f413)
+* ensure mirror modifiers are placed before finishing bevels in the modifier stack (5751adb)
+* rectify the mod order for lattice, simple_deform, profile_extrude, screw, solidify, array_cubed, and circular_array operators (2ccb087)
+* remove all disabled (viewport hidden) boolean modifiers when using the clean_utils operator (96a82ab)
+
+
+### Bug Fixes
+
+* add missing fast menu no prediction results section count (ac391ae)
+* add missing new_modifier imports to recon_poly, screw_head, set_origin, and triangulate operators (b832ca2)
+* ensure single_vertex object has rotation and scale applied after creation (7ce7f30)
+* fix edge_bevel width shift/precision and value formatting (78c1cac)
+* fix error/crash in clean_utils utility & add logic for lattice modifiers (14cf8a8)
+* fix mesh_f2 addon detection in the Fast Predict menu (499d96a)
+* fix no predictions logic in the fast menu (1819997)
+* fix poll method target object type check in cycle operator (a286253)
+* handle object/modifier removal errors more gracefully in clean_utils operator (6da00af)
+* unify and lower the merge and bisect thresholds for the mirror operator (843c126)
+
 ## 1.31.0 (2022-06-12)
 
 
