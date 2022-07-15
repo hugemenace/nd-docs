@@ -18,12 +18,14 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Confirm Geometry | **`SPACE`** | No | After selecting the faces to extract, hit the space bar to continue |
+| Exclusive View | **`E`** | No | Show the target object in front of all other objects |
 
 ### Step 2 (Inset)
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Inset Amount | _None_ | **Yes** | The amount to inset the selected faces |
 | Individual Faces | **`F`** | No | Whether to inset the faces individually, or as a unified group |
+| Exclusive View | **`E`** | No | Show the target object in front of all other objects |
 
 ### Step 3 (Solidify)
 Same options as those present in the [Solidify](/extrusion/solidify) operator.
