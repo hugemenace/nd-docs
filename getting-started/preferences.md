@@ -24,6 +24,9 @@
 | **Axis Base Thickness** | The base thickness of the axis visualiser |
 | **Axis Active Thickness** | The thickness of the active (selected) axis |
 | **Axis Inactive Opacity** | The opacity of the inactive (unselected) axes |
+| **Custom Overlay Options** | Select which overlays will be kept on when toggling the 3D viewport overlays, see below. |
+
+?> **Custom viewport overlay options:** `show_annotation`, `show_axis_x`, `show_axis_y`, `show_axis_z`, `show_bones`, `show_cursor`, `show_extras`, `show_floor`, `show_motion_paths`, `show_object_origins`, `show_object_origins_all`, `show_ortho_grid`, `show_outline_selected`, `show_relationship_lines`, `show_stats`, and `show_text`.
 
 ## Keymap
 
