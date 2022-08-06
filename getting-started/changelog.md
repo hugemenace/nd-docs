@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.33.0 (2022-08-06)
+
+
+### Features
+
+* add clear scale and shrink/fatten to sketch menu for object and edit mode respectively (7be4562)
+* add curve support to array_cubed operator (c9b7c88)
+* add curve support to screw operator (a74a5e6)
+* add curve support to simple_deform operator (bb0fa11)
+* add mirror curve option to fast predict menu (6a37a8b)
+* add option to mirror curve(s) (def7b2c)
+* add screw, array_cubed, and simple_deform curve operators to fast predict menu (0602f21)
+* add toggleable exclusive view (x-ray option) option to geo_lift, panel, and view_align operators (9fc75c1)
+* split clear_view into overlay (all & custom) options (785fd60)
+
+
+### Bug Fixes
+
+* ensure make edge/face operation is always available in edit mode fast menu (cbeffac)
+* ensure weld modifier removal does not prevent standard bevels from being recalled, and avoid removing HN bevel welds during apply-modifier operations (64c36bd)
+* fix lattice target object parenting behaviour (3d8a16e)
+* fix the "no predictions found" edge case in the Fast menu with only surfacing recallable operators (b36a447)
+* set width lower limit to zero on WN bevel operator (5a5dd78)
+
 ## 1.32.0 (2022-06-25)
 
 
