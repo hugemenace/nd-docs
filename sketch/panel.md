@@ -29,3 +29,7 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 ### Step 3 (Solidify)
 Same options as those present in the [Solidify](/extrusion/solidify) operator.
+
+---
+
+?> With [experimental mode](/getting-started/preferences) enabled, you'll be able to use `ctrl + z` (undo), `shift + ctrl + z` (redo), `W`, and `C` (selection) hotkeys.

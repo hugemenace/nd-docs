@@ -12,6 +12,7 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | :--- | :--- |
 | **`ALT`** | Mirror across geometry (you will be prompted to select which geometry to use as a mirror object) |
 | **`SHIFT`** | Place modifier at the top of the stack |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
 
 ## Options
 

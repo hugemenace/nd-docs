@@ -14,3 +14,11 @@ The Bevel operator will perform standard bevel, allowing you to customise the wi
 | Harden Normals | **`H`** | No | Wether to enable hardened normals |
 | Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
 | Angle | **`A`** | No | The bevel's edge angle limit (30, 45, or 60 degrees) |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |

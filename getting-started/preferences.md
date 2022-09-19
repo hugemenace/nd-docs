@@ -12,6 +12,7 @@
 | **Custom Screw Heads** | A path to a custom `.blend` file containing screw heads to be used in addition to the default set provided by the [Screw Head Operator](/standalone/screw-head) |
 | **Enable Update Checks** | Will automatically check if a new version of the addon is available when Blender starts |
 | **Compatibility Mode** | Whether to show deprecated (legacy) features in the UI |
+| **Experimental Mode** | Enable experimental features. Use at your own risk! |
 
 ## UI
 

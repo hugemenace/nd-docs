@@ -12,6 +12,7 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | :--- | :--- |
 | **`SHIFT`** | Place modifier at the bottom of the stack (post-sketch operations) |
 | **`ALT`** | Create a vertex group **edge** bevel |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
 
 ## Options
 

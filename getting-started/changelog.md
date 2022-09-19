@@ -1,5 +1,41 @@
 # Changelog
 
+## 1.34.0 (2022-09-19)
+
+
+### Features
+
+* add a bulk assign ID materials operator (fc3a4c6)
+* add a weighted_normal operator along with a new shading category, and move smooth shading into it (8e17737)
+* add clean_utils and apply_modifiers ops as shortcuts in main UI panel (7aba702)
+* add clear_materials operator (02c580b)
+* add CTRL + click modifier removal behaviour to all applicable operators (1fcb674)
+* add experimental mode toggle to preferences (4a5a4d1)
+* add mirror operation to boolean object fast menu predictions (7df0fea)
+* add mouse-step values to lattice, screw, array_cubed, circular_array operators (22e53de)
+* add Shift + Alt + E keybinding for the Packaging menu (f92d434)
+* add smooth shading and weighted normal operators to the fast-predict menu (28b359a)
+* add the id_material operator (20b77a0)
+* add undo/redo/W/C event passthrough as experimental feature for geo_lift, panel, and view_align operators (778b064)
+* allow bevel segments to be set via mouse movement when mouse values are enabled (c9713bd)
+* allow customisation of the overlay base color (b6fb7df)
+* allow ID Materials to be actioned in both object and edit mode (face select) (021efe2)
+* allow smooth shading operator to be used on multiple objects simultaneously (3d52fc9)
+* create a dedicated ID materials menu under Packaging, and a new assign-existing ID material operator (b383f14)
+* remove edge weights and vertex groups when clearing edge_bevel, or vertex_bevel operations (bfac62e)
+* set keep_sharp for the weighted_normal operator by default (3856be3)
+* split applicable util ops into dedicated scene and export menus (6422a49)
+* update the ID Materials menu to show a static list of all available colours with previews (bf9d5c1)
+
+
+### Bug Fixes
+
+* ensure mod order is rectified when using the edge_bevel operator (ecd49d9)
+* ensure select objects are made single-user when executing the apply_modifiers operator (a5955fb)
+* explicitly import bpy.utils.previews in icons/__init__.py (03f9f2b)
+* fix array_cubed manual input override locking (374c00b)
+* set profile_extrude's calculate edges option to false by default (d4c7537)
+
 ## 1.33.0 (2022-08-06)
 
 

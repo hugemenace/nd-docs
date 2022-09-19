@@ -13,3 +13,11 @@ The Profile Extrude operator will take a profile and extrude (solidify) it along
 | Weighting | **`W`** | No | The weighting/direction of the extrusion (positive, neutral, or negative) |
 | Axis | **`A`** | No | The axis to extrude along |
 | Calculate Edges | **`E`** | No | Calculate the order of edges (affects normals) |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |

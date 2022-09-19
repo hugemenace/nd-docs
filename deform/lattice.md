@@ -13,3 +13,11 @@ The Lattice operator will enclose the select object in a lattice, and apply a la
 | W Points | _None_ | No | The number of W points in the lattice |
 | Uniform | **`U`** | No | Whether to increase or decrease the U, V, and W points uniformly |
 | Interpolation Mode | **`M`** | No | The interpolation mode of the associated lattice mesh (Linear, Cardinal, Catmull-Rom, B-Spline) |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |

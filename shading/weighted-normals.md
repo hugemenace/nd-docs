@@ -1,6 +1,6 @@
-# Decimate
+# Weighted Normals
 
-The Decimate operator will add a decimate modifier to the selected objects. This modifier will remove any unneeded edges from planar faces.
+The Weighted Normals operator will apply a weighted normal modifier with `Keep Sharp` enabled to all selected objects.
 
 ## Alternative modes
 

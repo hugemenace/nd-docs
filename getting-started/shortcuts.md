@@ -9,6 +9,7 @@
 | **`ALT + S`** | Open the ND sketch menu | **Yes** |
 | **`ALT + T`** | Open the ND utils menu | **Yes** |
 | **`ALT + V`** | Open the ND viewport menu | **Yes** |
+| **`SHIFT + ALT + E`** | Open the Packaging menu | **Yes** |
 
 ## Overlays
 

@@ -14,3 +14,11 @@ The Screw operator will take a 2D planar sketch or profile and revolve it around
 | Screw Axis | **`A`** | No | The axis to revolve around |
 | Offset Axis | **`O`** | No | The displacement axis |
 | Flip Normals | **`F`** | No | Flip the normals of the resulting mesh |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |

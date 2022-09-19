@@ -62,18 +62,31 @@
     - [Decimate](/simplify/decimate)
     - [Weld](/simplify/weld)
 
+- Shading
+
+    - [Smooth Shading](/shading/smooth-shading)
+    - [Weighted Normals](/shading/weighted-normals)
+
+- Scene
+
+    - [Flare Lighting (R)](/scene/flare-lighting)
+    - [Clean Utils](/scene/clean-utils)
+
+- Packaging
+
+    - [Material Selection](/packaging/material-selection)
+    - [Bulk Assign Materials](/packaging/bulk-assign-materials)
+    - [Clear All Materials](/packaging/clear-materials)
+    - [Name & Data Sync](/packaging/name-data-sync)
+    - [Low / High LOD](/packaging/low-high-lod)
+    - [UV Seams](/packaging/uv-seams)
+    - [Triangulate](/packaging/triangulate)
+
 - Utils
 
-    - [Name & Data Sync](/utils/name-data-sync)
-    - [Low / High LOD](/utils/low-high-lod)
     - [Set Origin](/utils/set-origin)
     - [Snap Align](/utils/snap-align)
-    - [Smooth Shading](/utils/smooth-shading)
-    - [UV Seams](/utils/uv-seams)
-    - [Triangulate](/utils/triangulate)
     - [Apply Modifiers](/utils/apply-modifiers)
-    - [Clean Utils](/utils/clean-utils)
-    - [Flare Lighting (R)](/utils/flare-lighting)
 
 - Viewport
 

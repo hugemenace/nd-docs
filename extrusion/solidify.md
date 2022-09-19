@@ -13,6 +13,14 @@ The Solidify operator will add thickness to any selected 2D or 3D object. It is 
 | Weighting | **`W`** | No | The weighting/direction of the solidification (positive, neutral, or negative) |
 | Mode | **`M`** | No | Extrusion algorithm (see explanation below) |
 
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
+
 ## Extrusion Algorithm (Mode)
 
 ### Simple
