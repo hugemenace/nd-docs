@@ -20,6 +20,7 @@
     - [View Align](/sketch/view-align)
     - [Geo Lift](/sketch/geo-lift)
     - [Panel](/sketch/panel)
+    - [Circularize (R)](/sketch/circularize)
     - [Recon Poly (R)](/sketch/recon-poly)
     - [Screw Head](/sketch/screw-head)
 

@@ -13,6 +13,8 @@ The Bevel operator will perform standard bevel, allowing you to customise the wi
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
 | Harden Normals | **`H`** | No | Wether to enable hardened normals |
 | Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
+| Clamp Overlap | **`C`** | No | Clamp the width to avoid overlap |
+| Loop Slide | **`S`** | No | Prefer sliding along edges to having even widths |
 | Angle | **`A`** | No | The bevel's edge angle limit (30, 45, or 60 degrees) |
 
 ## Alternative modes

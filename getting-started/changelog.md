@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.35.0 (2022-11-05)
+
+
+### Features
+
+* add circularize operator (722a14a)
+* add clamp_overlap and loop_slide options to bevel operator (3f72296)
+* add decimate modifier to circularize operator and set min segments to 2 (d08f5bc)
+* add immediate apply mode to seams operator, default to angle set in preferences, and lock auto smooth to 180 degrees (ad2b167)
+* add mesh mode set_origin behaviour (f116a8d)
+* add the circularize operator as a fast menu PE/sketch prediction (3b89d57)
+
+
+### Bug Fixes
+
+* add edge_bevel and overlay fixes for Blender 3.4 (2700e23)
+* add overlay_option_active_color back into reset_theme operator (4cbc00b)
+* ensure vertex groups and edge weights are remove when applying modifiers (587c2af)
+* fix profile_extrude and solidify normal calculations (3ded508)
+* only apply viewport visible modifiers (8b7b7c2)
+* register recon_poly segments with mouse values system (64929d4)
+
 ## 1.34.0 (2022-09-19)
 
 
