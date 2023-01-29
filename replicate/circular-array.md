@@ -17,7 +17,7 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
-| Count | _None_ | No | The total number of items in the array around the current axis |
+| Count | _None_ | **Yes** | The total number of items in the array around the current axis |
 | Axis | **`A`** | No | The axis to affect |
 | Angle | _None_ | **Yes** | The relative offset between each item on the current axis |
 | Offset | _None_ | **Yes** | The additional offset (distance) between the center of the array and each individual object |

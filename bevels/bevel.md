@@ -9,7 +9,7 @@ The Bevel operator will perform standard bevel, allowing you to customise the wi
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Width | _None_ | **Yes** | The width of the bevel |
-| Segments | _None_ | No | The number of segments (sides) |
+| Segments | _None_ | **Yes** | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
 | Harden Normals | **`H`** | No | Wether to enable hardened normals |
 | Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |

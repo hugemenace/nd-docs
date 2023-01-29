@@ -20,7 +20,7 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Weight | _None_ | **Yes** | The weight (width factor) of the bevel |
-| Segments | _None_ | No | The number of segments (sides) |
+| Segments | _None_ | **Yes** | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
 | Width | _None_ | **Yes** | The width of the bevel |
 | Harden Normals | **`H`** | No | Wether to enable hardened normals |

@@ -10,7 +10,7 @@ It also offers an alternative "Modifier" mode which allows you to scrub through 
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
-| Utility | _None_ | No | The current active / selected utility |
+| Utility | _None_ | **Yes** | The current active / selected utility |
 | Frozen | **`F`** | No | Whether to freeze (keep selected) the current utility |
 | Disable Modifier | **`D`** | No | Disable the associated boolean modifier |
 | Mode | **`M`** | No | Switch between utility and modifier mode |
@@ -20,6 +20,6 @@ It also offers an alternative "Modifier" mode which allows you to scrub through 
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
-| Modifier | _None_ | No | The current active / visible modifier (with all modifiers preceding it being visible) |
+| Modifier | _None_ | **Yes** | The current active / visible modifier (with all modifiers preceding it being visible) |
 | Mode | **`M`** | No | Switch between utility and modifier mode |
 | Wireframe | **`W`** | No | Display the object's wireframe while cycling |

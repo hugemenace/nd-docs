@@ -8,6 +8,6 @@ The Screw Head operator instantiates many common screw head types, with the addi
 
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
-| Type | _None_ | No | The screw head type (built-in, or custom) |
+| Type | _None_ | **Yes** | The screw head type (built-in, or custom) |
 | Offset | _None_ | **Yes** | The normal displacement of the screw head |
 | Scale | _None_ | **Yes** | The overall size of the screw head |

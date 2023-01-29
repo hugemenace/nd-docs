@@ -19,6 +19,6 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Option | Shortcut | Mouse Value Compatible | Description |
 | :--- | :--- | :--- | :--- |
 | Width | _None_ | **Yes** | The width of the bevel |
-| Segments | _None_ | No | The number of segments (sides) |
+| Segments | _None_ | **Yes** | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
 | Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
