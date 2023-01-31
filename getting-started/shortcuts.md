@@ -24,5 +24,3 @@
 | **`P`** | Pin the overlay in place | **Yes** |
 | **`\`** | Pause the current operation (pass events through to Blender) | **Yes** |
 | **`X`** | Reset the current option's value back to its default | **Yes** |
-| **`]`** | Increase the current option's factor (if applicable) | **Yes** |
-| **`[`** | Decrease the current option's factor (if applicable) | **Yes** |

@@ -94,5 +94,6 @@
     - [Wireframes](/viewport/wireframes)
     - [Face Orientation](/viewport/face-orientation)
     - [Utils Visibility](/viewport/utils-visibility)
+    - [Silhouette](/viewport/silhouette)
     - [Overlays (All)](/viewport/overlays-all)
     - [Overlays (Custom)](/viewport/overlays-custom)
