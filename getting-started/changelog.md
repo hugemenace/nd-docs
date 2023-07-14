@@ -1,6 +1,24 @@
 # Changelog
 
-## 1.36.1 (2023-02-06)
+## 1.37.0 (2023-07-14)
+
+
+### Features
+
+* add an apply modifier option to the cycle operator
+* add keymaps for difference, union, intersect, and slice boolean operations
+* add loop slide and clamp overlap options to the edge bevel modifier and swap the weight and width options
+* add only ngons option to triangulate modifier
+* add support to high/low LOD for ZenSet's object naming convention
+* remove the WN bevel operator and update the standard bevel and weighted normal operators so that the functionality can be replicated
+* set the angle parameter on the bevel operator as a mouse-driven value
+
+
+### Bug Fixes
+
+* fix the edge bevel operator's width and weight hints
+
+### 1.36.1 (2023-02-06)
 
 
 ### Bug Fixes
@@ -214,23 +232,23 @@
 * fix recon poly local Z axis natural rotation and recall ability
 * tidy up and fix undesired relative offset behaviour in panel operator
 
-## 1.28.4 (2022-05-28)
+### 1.28.4 (2022-05-28)
 
 
 ### Bug Fixes
 
 * add additional checks to bevel types in automatic modifier reordering logic
 
-## 1.28.3 (2022-05-28)
+### 1.28.3 (2022-05-28)
 
 
 ### Bug Fixes
 
 * fix modifier stack ordering when vertex bevel + weld modifiers are present
 
-## 1.28.2 (2022-05-27)
+### 1.28.2 (2022-05-27)
 
-## 1.28.1 (2022-05-27)
+### 1.28.1 (2022-05-27)
 
 
 ### Bug Fixes
@@ -419,7 +437,7 @@
 * swap width and segments options on vertex_bevel operator to align with vanilla bevel operator
 * update recon_poly option ordering to better align with other operators (width > segments > etc.)
 
-## 1.20.1 (2022-04-17)
+### 1.20.1 (2022-04-17)
 
 
 ### Bug Fixes
@@ -544,14 +562,14 @@
 * ensure reference and secondary objects in boolean operations are parented to the primary object
 * prefix boolean reference object names
 
-## 1.11.2 (2022-03-30)
+### 1.11.2 (2022-03-30)
 
 
 ### Bug Fixes
 
 * ensure ESC key does not cancel paused operators
 
-## 1.11.1 (2022-03-30)
+### 1.11.1 (2022-03-30)
 
 ## 1.11.0 (2022-03-29)
 
@@ -597,7 +615,7 @@
 
 * add interactive UV seams & sharps operator
 
-## 1.7.1 (2022-02-25)
+### 1.7.1 (2022-02-25)
 
 
 ### Bug Fixes
@@ -616,7 +634,7 @@
 
 * ensure vertex_bevel operator always places current bevel modifier at the top of the stack, and only creates one weld modifier in total
 
-## 1.6.1 (2022-02-18)
+### 1.6.1 (2022-02-18)
 
 
 ### Bug Fixes
@@ -679,7 +697,7 @@
 
 * enforce 0.0001 minimum width for weighted normal bevel, and add WN prefix to bevel modifier name for better recognition
 
-## 1.2.1 (2022-01-30)
+### 1.2.1 (2022-01-30)
 
 
 ### Bug Fixes
@@ -705,7 +723,7 @@
 * fix poll method qualifier in name_sync operator
 * set the bevel modifier offset type to 'width' for the vertex_bevel, and weighted_normal_bevel operators
 
-## 1.1.1 (2022-01-29)
+### 1.1.1 (2022-01-29)
 
 
 ### Bug Fixes

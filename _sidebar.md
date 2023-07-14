@@ -39,7 +39,6 @@
     - [Vertex (R)](/bevels/vertex)
     - [Edge (R)](/bevels/edge)
     - [Bevel (R)](/bevels/bevel)
-    - [WN Bevel (R)](/bevels/wn-bevel)
 
 - Extrusion
 

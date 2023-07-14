@@ -23,4 +23,6 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Segments | _None_ | **Yes** | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
 | Width | _None_ | **Yes** | The width of the bevel |
+| Clamp Overlap | **`C`** | No | Clamp the width to avoid overlap |
+| Loop Slide | **`S`** | No | Prefer sliding along edges to having even widths |
 | Harden Normals | **`H`** | No | Wether to enable hardened normals |

@@ -13,6 +13,7 @@ It also offers an alternative "Modifier" mode which allows you to scrub through 
 | Utility | _None_ | **Yes** | The current active / selected utility |
 | Frozen | **`F`** | No | Whether to freeze (keep selected) the current utility |
 | Disable Modifier | **`D`** | No | Disable the associated boolean modifier |
+| Apply Modifier | **`A`** | No | Apply the associated boolean modifier |
 | Mode | **`M`** | No | Switch between utility and modifier mode |
 | Wireframe | **`W`** | No | Display the object's wireframe while cycling |
 

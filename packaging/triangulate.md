@@ -9,4 +9,4 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Shortcut | Description |
 | :--- | :--- |
 | **`ALT`** | Do not preserve custom normals |
-| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
+| **`SHIFT`** | **RESET**: Only triangulate ngons (5+ vertices) |
