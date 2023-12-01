@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.38.0 (2023-12-01)
+
+
+### Bug Fixes
+
+* fix additional Blender 4 compatibility issues
+* fix Blender 4 compatibility issues
+* fix Blender 4 shader issues for Axis and Point visualisation
+
 ## 1.37.0 (2023-07-14)
 
 
