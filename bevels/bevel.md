@@ -16,6 +16,7 @@ The Bevel operator will perform standard bevel, allowing you to customise the wi
 | Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
 | Clamp Overlap | **`C`** | No | Clamp the width to avoid overlap |
 | Loop Slide | **`S`** | No | Prefer sliding along edges to having even widths |
+| Recall Bevel | **`R`** | No | Cycle between multiple recalled bevels if they exist |
 
 ## Alternative modes
 
@@ -24,3 +25,4 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Shortcut | Description |
 | :--- | :--- |
 | **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
+| **`SHIFT`** | **RESET**: Add a stacked bevel modifier |

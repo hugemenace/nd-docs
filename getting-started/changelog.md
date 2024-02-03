@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.39.0 (2024-02-03)
+
+
+### Features
+
+* add the option to stack bevel modifiers, and cycle through stacked bevels when recalling
+
+
+### Bug Fixes
+
+* ensure that the edge.index exists in the edges_snapshot before reverting an edge bevel operation
+
 ## 1.38.0 (2023-12-01)
 
 
