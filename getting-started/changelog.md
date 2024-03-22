@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.40.0 (2024-03-22)
+
+
+### Features
+
+* add right-click select support (toggle via add-on preferences)
+* add support for Blender 4.1's new smoothing process
+
+
+### Bug Fixes
+
+* fix circular array empty rotation in single-object mode and tidy up operator
+* fix lattice scaling in Blender >= 4.1
+
 ## 1.39.0 (2024-02-03)
 
 
