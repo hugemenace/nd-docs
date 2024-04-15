@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.41.0 (2024-04-15)
+
+
+### Features
+
+* add an option to toggle the visibility of utils for only the selected objects
+* add robertson, torx tamper proof, and triangle recess screw head types
+
+
+### Bug Fixes
+
+* ensure that boolean ops handle the presence of WN mods correctly
+* ensure that the SBA and WN mod order is maintained when new mods are added to the stack
+* ensure that the WN modifier doesn't add additional mods to an object with the WN mod already applied
+* ensure the SBA mod places itself before any WN mod present in the stack
+* fix NoneType error and add additional guard clauses for when the active target object is excluded from the view layer
+* fix smoothing mod removal error on profile extrude when cancelling a new (non-recalled) operation
+
 ## 1.40.0 (2024-03-22)
 
 
