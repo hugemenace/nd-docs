@@ -1,6 +1,6 @@
 # Circularize (<span title="Recallable">R</span>)
 
-The Circularize operator will automatically apply an edge-bevel operator with a 50% weighting. For example, this operator is useful for quickly creating non-destructive cylinders from planes.
+The Circularize operator will automatically apply an vertex bevel with a 50% width, useful for quickly creating non-destructive circles from planes.
 
 [](../_media/circularize.mp4 ':include')
 
