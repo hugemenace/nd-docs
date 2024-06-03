@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.43.0 (2024-06-03)
+
+
+### Features
+
+* add an option in general preferences to toggle auto smoothing across all operators
+
+
+### Bug Fixes
+
+* fix version number check when check for updates is enabled
+
+## 1.42.0 (2024-05-25)
+
+
+### Features
+
+* add a hard apply & duplicate mesh alternative mode to the apply modifiers operator
+
+
+### Bug Fixes
+
+* fix the incorrect object position offset when reversing a faux origin displacement
+
+### 1.41.2 (2024-05-08)
+
+### 1.41.1 (2024-05-07)
+
+
+### Bug Fixes
+
+* fix Blender 4.2 extension compatibility issues
+
 ## 1.41.0 (2024-04-15)
 
 
