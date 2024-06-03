@@ -1,16 +1,26 @@
 # Welcome
 
-ND (short for non-destructive) is a Blender addon that provides a number of workflow enhancements, tools, operations, and generators — tailored specifically for non-destructive modelling. 
+ND is a Blender add-on that provides workflow enhancements, tools, operations, and generators tailored specifically for non-destructive & hard-surface 3D modelling. It additionally offers post-modelling workflow enhancements for external applications such as Substance Painter, Marmoset Toolbag, game engines, and more.
 
-This approach is useful for many types of modelling needs, particularly hard-surface forms, while being able to quickly adjust parameters without the need for manual poly-modelling. ND makes extensive use of modifiers to enable this flexible workflow.
+**Features**
+- Object and edit mode operations.
+- Interactive modifiers.
+- Recalling modifiers to alter parameters.
+- Streamlined boolean, bevel, extrusion, and replication workflows.
+- Model packaging (material IDs, high & low poly, UVs.)
+- Scene management (utils, overlays, visualisation modes.)
+- Extensive customisation (behaviour, theming, UI.)
 
 <a href="https://www.patreon.com/bePatron?u=48315864"><img src="https://hugemenace.co/images/patreon.jpg"></a>
 
-_Watch one of our recent tutorials:_
 <div style="max-width: 800px;">
     <div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
-        <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/OL-KSx9JbZM?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/S25W8KaX5D8?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
-?> **Note**: The ND addon is under active development and constantly evolving. Check the [YouTube channel](https://hugemenace.co/youtube) for video updates, or read through the written documentation. We'll endeavour to keep the documentation and videos up to date as we progress 🚀
+<div style="max-width: 800px;">
+    <div style="position: relative; padding-top: 56.25%; margin: 1rem 0 2rem;">
+        <iframe style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100% !important; height: 100% !important; margin: 0 !important;" src="https://www.youtube.com/embed/jKs7rtdK0VI?modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
