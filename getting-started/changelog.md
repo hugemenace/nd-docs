@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.44.0 (2024-07-12)
+
+
+### Features
+
+* add a linked version of smart duplicate (equivalent to Blender's ALT + D)
+* add extended mouse behaviour support (scroll on bevels to change segment count)
+* add extended mouse value support to recon poly (scroll to adjust segments)
+* add freeze state option to modifier mode in the cycle operator (retain mod visibility states on exit)
+* add mirror, profile extrude, and screw operators to the edit mode fast menu
+* add option to change overlay reset key behaviour to unlock instead of hard-reset
+* add option to customise the Utils collection icon color
+* add option to lock overlay parameters on recall
+* add option to remove triangulate modifiers via the CTRL alt-mode convention
+* add SHIFT+T shortcut for toggle utils
+* add smart duplicate operator (copy selected object/s with all associated utilities)
+* add symmetrize option to mirror operator for immediate application
+* add sync modifiers operator (experimental feature)
+* allow apply modifiers to be run on curve objects in selection set (will convert them to mesh)
+* allow bulk operators to be executed as long as mesh objects are in the selected group (e.g., ignore empties)
+* allow profile extrude, screw, mirror, and circularize operators to be run from edit mode
+* allow the isolated object util toggle operator to be run on composite utils
+
+
+### Bug Fixes
+
+* ensure that all util objects are toggled (including empties) when using the isolated object mode in toggle utils
+* ensure that all utils and composited utils are recursively selected when toggling or duplicating
+* fix Blender 4.2 SBA crash and improve SBA/WN across various versions
+* only attempt to preserve custom normals when running triangulate in Blender <4.2
+
+### 1.43.1 (2024-06-12)
+
 ## 1.43.0 (2024-06-03)
 
 

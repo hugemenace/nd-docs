@@ -20,3 +20,4 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | :--- | :--- | :--- | :--- |
 | Axis | **`A`** | No | The axis to mirror across |
 | Flipped | **`F`** | No | Whether to flip the effect of the mirror |
+| Symmetrize | **`S`** | No | Whether to immediately apply the mirror modifier on completion |

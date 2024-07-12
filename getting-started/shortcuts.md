@@ -10,6 +10,9 @@
 | **`ALT + T`** | Open the ND utils menu | **Yes** |
 | **`ALT + V`** | Open the ND viewport menu | **Yes** |
 | **`SHIFT + ALT + E`** | Open the Packaging menu | **Yes** |
+| **`SHIFT + ALT + D`** | Create a smart duplicate of the selected object(s) |
+| **`SHIFT + ALT + S`** | Create a linked duplicate of the selected object(s) |
+| **`SHIFT + T`** | Toggle the visibility of all util objects |
 
 ## Overlays
 

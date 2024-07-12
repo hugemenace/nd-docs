@@ -86,6 +86,8 @@
 
     - [Set Origin](/utils/set-origin)
     - [Snap Align](/utils/snap-align)
+    - [Smart Duplicate](/utils/smart-duplicate.md)
+    - [Linked Duplicate](/utils/linked-duplicate.md)
     - [Apply Modifiers](/utils/apply-modifiers)
 
 - Viewport

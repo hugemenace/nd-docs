@@ -24,3 +24,4 @@ It also offers an alternative "Modifier" mode which allows you to scrub through 
 | Modifier | _None_ | **Yes** | The current active / visible modifier (with all modifiers preceding it being visible) |
 | Mode | **`M`** | No | Switch between utility and modifier mode |
 | Wireframe | **`W`** | No | Display the object's wireframe while cycling |
+| Freeze State | **`F`** | No | Whether to freeze the current state (visibility) of modifiers on completion/exit of the operation |
