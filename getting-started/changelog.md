@@ -1,5 +1,20 @@
 # Changelog
 
+### 1.44.2 (2024-07-13)
+
+
+### Bug Fixes
+
+* ensure all bmesh instances are freed after use to prevent memory leaks
+* fix ND N-panel toggle-utils shortcut icon registration error
+
+### 1.44.1 (2024-07-12)
+
+
+### Bug Fixes
+
+* fix Blender version polling
+
 ## 1.44.0 (2024-07-12)
 
 
