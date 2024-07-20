@@ -1,5 +1,16 @@
 # Changelog
 
+### 1.44.3 (2024-07-20)
+
+
+### Bug Fixes
+
+* ensure that only one triangulate modifier is applied to an object when running the operator multiple times
+* ensure the triangulate modifier is placed/pinned at the end of the mod stack
+* ensure the triangulate modifier is removed from boolean utility objects
+* improve F2 add-on/extension detection and subsequent Fast menu "Make Edge/Face" prediction
+* improve operator polling and the edit mode predictions in the Fast menu
+
 ### 1.44.2 (2024-07-13)
 
 
