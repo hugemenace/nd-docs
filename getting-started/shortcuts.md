@@ -10,9 +10,9 @@
 | **`ALT + T`** | Open the ND utils menu | **Yes** |
 | **`ALT + V`** | Open the ND viewport menu | **Yes** |
 | **`SHIFT + ALT + E`** | Open the Packaging menu | **Yes** |
-| **`SHIFT + ALT + D`** | Create a smart duplicate of the selected object(s) |
-| **`SHIFT + ALT + S`** | Create a linked duplicate of the selected object(s) |
-| **`SHIFT + T`** | Toggle the visibility of all util objects |
+| **`SHIFT + ALT + D`** | Create a smart duplicate of the selected object(s) | **Yes** |
+| **`SHIFT + ALT + S`** | Create a linked duplicate of the selected object(s) | **Yes** |
+| **`SHIFT + T`** | Toggle the visibility of all util objects | **Yes** |
 
 ## Overlays
 
@@ -22,8 +22,10 @@
 | **`SHIFT`** | Where applicable, go into precision mode, or activate an alternative mode for the current active option | **No** |
 | **`UP`**, **`RIGHT`** | Increase the selected option's value | **No** |
 | **`DOWN`**, **`LEFT`** | Decrease the selected option's value | **No** |
-| **`ENTER`**, **`SPACE`**, **`LEFT CLICK`** | Complete the current operation | **No** |
-| **`ESC`**, **`RIGHT CLICK`** | Cancel the current operation | **No** |
+| **`ENTER`**, **`SPACE`**, **`LEFT CLICK`** | Complete the current operation | **Partial (RCS\* support)** |
+| **`ESC`**, **`RIGHT CLICK`** | Cancel the current operation | **Partial (RCS\* support)** |
 | **`P`** | Pin the overlay in place | **Yes** |
 | **`\`** | Pause the current operation (pass events through to Blender) | **Yes** |
 | **`X`** | Reset the current option's value back to its default | **Yes** |
+
+?> **RCS:** Right-click support (enabled in ND's preferences) — requires Blender's right-click select option to be enabled.
