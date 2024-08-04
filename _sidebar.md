@@ -33,6 +33,7 @@
     - [Inset / Outset](/booleans/inset-outset)
     - [Hydrate](/booleans/hydrate)
     - [Swap Solver](/booleans/swap-solver)
+    - [Duplicate Utility](/booleans/duplicate-utility)
 
 - Bevels
 
@@ -45,6 +46,7 @@
     - [Solidify (R)](/extrusion/solidify)
     - [Screw (R)](/extrusion/screw)
     - [Profile Extrude (R)](/extrusion/profile-extrude)
+    - [Pipe Extrude (R)](/extrusion/pipe-extrude)
 
 - Replicate
 
@@ -88,6 +90,7 @@
     - [Snap Align](/utils/snap-align)
     - [Smart Duplicate](/utils/smart-duplicate.md)
     - [Linked Duplicate](/utils/linked-duplicate.md)
+    - [Sync Modifiers](/utils/sync-modifiers)
     - [Apply Modifiers](/utils/apply-modifiers)
 
 - Viewport

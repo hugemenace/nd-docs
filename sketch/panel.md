@@ -4,14 +4,6 @@ The Panel operator combines several actions: Geo Lift, Inset, and Solidify. Usef
 
 [](../_media/panel.mp4 ':include')
 
-## Alternative modes
-
-Hold down the shortcut when selecting the operator to enter the respective mode.
-
-| Shortcut | Description |
-| :--- | :--- |
-| **`SHIFT`** | Do not clean duplicate mesh before extraction |
-
 ## Options
 
 ### Step 1 (Select)
@@ -29,6 +21,14 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 ### Step 3 (Solidify)
 Same options as those present in the [Solidify](/extrusion/solidify) operator.
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`SHIFT`** | Do not clean duplicate mesh before extraction |
 
 ---
 

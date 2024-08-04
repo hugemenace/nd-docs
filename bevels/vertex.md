@@ -4,16 +4,6 @@ The Vertex Bevel operator will perform a vertex specific bevel, allowing you to 
 
 [](../_media/vertex-bevel.mp4 ':include')
 
-## Alternative modes
-
-Hold down the shortcut when selecting the operator to enter the respective mode.
-
-| Shortcut | Description |
-| :--- | :--- |
-| **`SHIFT`** | Place modifier at the bottom of the stack (post-sketch operations) |
-| **`ALT`** | Create a vertex group **edge** bevel |
-| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
@@ -22,3 +12,13 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Segments | _None_ | **Yes** | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
 | Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`SHIFT`** | Place modifier at the bottom of the stack (post-sketch operations) |
+| **`ALT`** | Create a vertex group **edge** bevel |
+| **`CTRL`** | **RESET**: Remove any related modifiers from the selected object |

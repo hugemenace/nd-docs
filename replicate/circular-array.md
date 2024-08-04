@@ -4,15 +4,6 @@ The Circular Array operator will array the selected object along a given axis (X
 
 [](../_media/circular-array.mp4 ':include')
 
-## Alternative modes
-
-Hold down the shortcut when selecting the operator to enter the respective mode.
-
-| Shortcut | Description |
-| :--- | :--- |
-| **`ALT`** | Use displacement modifiers to "virtually" set the origin of the object |
-| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
@@ -21,3 +12,12 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Axis | **`A`** | No | The axis to affect |
 | Angle | _None_ | **Yes** | The relative offset between each item on the current axis |
 | Offset | _None_ | **Yes** | The additional offset (distance) between the center of the array and each individual object |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`ALT`** | Use displacement modifiers to "virtually" set the origin of the object |
+| **`CTRL`** | **RESET**: Remove any related modifiers from the selected object |

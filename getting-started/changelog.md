@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.45.0 (2024-08-04)
+
+
+### Features
+
+* add duplicate utility operator and corresponding fast menu integration
+* add pipe extrude operator and corresponding fast menu integration
+* add the option to clear/remove drivers (and retain existing values) to the sync modifiers operator
+* improve sync modifiers attribute detection and add support for geometry nodes
+* mark sync modifiers as a standard feature (previously experimental)
+* retain original object and offset_object utils when syncing modifiers and add an option to override (ALT) if required
+
+
+### Bug Fixes
+
+* fix maximum recursion depth exceeded error when smart duplicating an object with cylic utils
+* fix the error that occurs when cancelling a panel operation on the first step (selecting geometry)
+
 ### 1.44.3 (2024-07-20)
 
 

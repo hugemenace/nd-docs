@@ -6,15 +6,6 @@ The Edge Bevel operator will perform a edge specific bevel, allowing you to cust
 
 [](../_media/edge-bevel.mp4 ':include')
 
-## Alternative modes
-
-Hold down the shortcut when selecting the operator to enter the respective mode.
-
-| Shortcut | Description |
-| :--- | :--- |
-| **`SHIFT`** | Place modifier at the top of the stack |
-| **`CTRL`** | **RESET**: Remove any solidify-related modifiers from the selected object |
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
@@ -26,3 +17,12 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 | Clamp Overlap | **`C`** | No | Clamp the width to avoid overlap |
 | Loop Slide | **`S`** | No | Prefer sliding along edges to having even widths |
 | Harden Normals | **`H`** | No | Wether to enable hardened normals |
+
+## Alternative modes
+
+Hold down the shortcut when selecting the operator to enter the respective mode.
+
+| Shortcut | Description |
+| :--- | :--- |
+| **`SHIFT`** | Place modifier at the top of the stack |
+| **`CTRL`** | **RESET**: Remove any related modifiers from the selected object |
