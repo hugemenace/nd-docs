@@ -1,5 +1,39 @@
 # Changelog
 
+## 1.47.0 (2025-02-11)
+
+
+### Features
+
+* add edge length operator
+* add GN hole generator
+* add GN pipe generator
+* add the pipe generator operator to the fast menu replacing pipe extrude
+
+
+### Bug Fixes
+
+* fix the Flare energy offset parameter reset after energy levels have been randomised
+
+## 1.46.0 (2024-11-23)
+
+
+### Features
+
+* add an option to disable the creation of a custom transform orientation when using view align
+* add an option to disable util viewport visibility when toggling (in addition to hiding)
+* add an option to stop ND from hiding all unrelated utils when an operation creates or recalls another util object
+* set the material mode on exact booleans to transfer
+
+
+### Bug Fixes
+
+* ensure that util objects aren't rendered when in Cycles or EEVEE preview modes
+* ensure that utils aren't relocated to the root of the utils collection if they already exist in a sub-collection
+* ensure the panel operator's BMesh instance is not prematurely freed during operation
+* ensure the utils collection is included in the current view layer when utils are created or recalled
+* move the vertices/edges selected polling methods into the invoke method for the edge_bevel, vertex_bevel, and clear_vgs operators to avoid freeing any existing object's BMesh instance
+
 ## 1.45.0 (2024-08-04)
 
 
