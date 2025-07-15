@@ -10,4 +10,4 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 | Shortcut | Description |
 | :--- | :--- |
-| **`ALT`** | Do not clean the reference object's mesh |
+| **`ALT`** | Do not clean the reference object's mesh. By default ND removes (cleans) problematic modifiers from the reference object, such as Triangulate |

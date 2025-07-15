@@ -16,13 +16,18 @@
 
     - [Single Vertex](/sketch/single-vertex)
     - [Make Manifold](/sketch/make-manifold)
-    - [Clear Vertex Groups](/sketch/clear-vertex-groups)
     - [View Align](/sketch/view-align)
     - [Geo Lift](/sketch/geo-lift)
     - [Panel](/sketch/panel)
     - [Circularize (R)](/sketch/circularize)
     - [Recon Poly (R)](/sketch/recon-poly)
     - [Screw Head](/sketch/screw-head)
+
+- Data
+
+    - [Clear Vertex Groups](/data/clear-vertex-groups)
+    - [Clear Edge Attributes](/data/clear-edge-attributes)
+    - [Clean Object Data](/data/clean-object-data)
 
 - Booleans
 
@@ -98,6 +103,7 @@
     - [Wireframes](/viewport/wireframes)
     - [Face Orientation](/viewport/face-orientation)
     - [Utils Visibility](/viewport/utils-visibility)
+    - [Capture Utils](/viewport/capture-utils)
     - [Silhouette](/viewport/silhouette)
     - [Overlays (All)](/viewport/overlays-all)
     - [Overlays (Custom)](/viewport/overlays-custom)

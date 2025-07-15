@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.48.0 (2025-02-19)
+
+
+## Features
+
+* add a 'Boolean Connectors' option to the GN Pipe Generator modifier
+* add the new Generators menu to the N-Panel on Blender 4.3+
+
+## Bug Fixes
+
+* ensure the Generators shortcut menu (Shift Alt G) is not bound on Blender versions lower than 4.3
+* fix the Pipe Generator error when corner mode is activated on an edge with less than 3 vertices
+
 ## 1.47.0 (2025-02-11)
 
 

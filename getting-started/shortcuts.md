@@ -7,11 +7,14 @@
 | **`SHIFT + 2`** | Open the primary ND shortcut menu | **Yes** |
 | **`F`** | Open the fast prediction menu | **Yes** |
 | **`ALT + S`** | Open the ND sketch menu | **Yes** |
+| **`SHIFT + ALT + G`** | Open the ND generators menu | **Yes** |
 | **`ALT + T`** | Open the ND utils menu | **Yes** |
 | **`ALT + V`** | Open the ND viewport menu | **Yes** |
-| **`SHIFT + ALT + E`** | Open the Packaging menu | **Yes** |
+| **`SHIFT + ALT + E`** | Open the ND Packaging menu | **Yes** |
 | **`SHIFT + ALT + D`** | Create a smart duplicate of the selected object(s) | **Yes** |
+| **`SHIFT + CTRL + ALT + D`** | Create a smart deep duplicate of the selected object(s) | **Yes** |
 | **`SHIFT + ALT + S`** | Create a linked duplicate of the selected object(s) | **Yes** |
+| **`SHIFT + CTRL + ALT + S`** | Create a linked deep duplicate of the selected object(s) | **Yes** |
 | **`SHIFT + T`** | Toggle the visibility of all util objects | **Yes** |
 
 ## Overlays
