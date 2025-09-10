@@ -41,6 +41,11 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   <style>
+    em {
+      color: inherit !important;
+      font-weight: 600;
+    }
+
     .markdown-section tr:nth-child(2n) {
       background-color: #363636;
     }
@@ -48,6 +53,10 @@
     .markdown-section td {
       border: 1px solid #000;
       padding: 6px 13px;
+    }
+
+    .markdown-section td > code {
+      text-wrap-mode: nowrap !important;
     }
 
     .markdown-section th {
@@ -77,18 +86,35 @@
       font-weight: 600;
     }
 
-    .markdown-section code {
-      background-color: #282828;
-      border-radius: 9999px;
-      color: #b9b9b9;
-      font-family: 'Roboto Mono', Monaco, courier, monospace;
-      margin: 0 2px;
-      padding: 5px 9px;
-      white-space: pre-wrap;
+    code {
+      display: inline-block !important;
+      background-color: #282828 !important;
+      border-radius: 9999px !important;
+      color: #b9b9b9 !important;
+      font-family: 'Roboto Mono', Monaco, courier, monospace !important;
+      margin: 0 2px !important;
+      padding: 5px 10px !important;
+      white-space: pre-wrap !important;
+      line-height: 1 !important;
+    }
+
+    .markdown-section p.tip {
+      border-color: #FF8737;
+      border-radius: 2px;
+      color: white;
+    }
+
+    .markdown-section p.tip::before {
+      background-color: #FF8737;
+    }
+
+    .markdown-section p.tip > strong {
+      color: #FF8737;
     }
 
     .markdown-section p.warn {
-      background: rgb(255 53 19 / 18%);
+      background-color: #282828;
+      border-left: 4px solid rgb(97 182 223);
       border-radius: 2px;
       padding: 1rem;
     }

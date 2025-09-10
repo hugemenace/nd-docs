@@ -2,8 +2,6 @@
 
 The Panel operator combines several actions: Geo Lift, Inset, and Solidify. Useful when creating panels, as the name suggests, or extracting geometry for boolean operations.
 
-[](../_media/panel.mp4 ':include')
-
 ## Options
 
 ### Step 1 (Select)

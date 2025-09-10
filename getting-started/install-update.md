@@ -11,7 +11,6 @@
 1. Locate ND Add-on under the **Installed** list.
 1. Click **Update** to install the latest version.
 
-
 ## How to Install (Manually)
 
 1. Download the [latest version](https://hugemenace.gumroad.com/l/nd-blender-addon) of the add-on (`vX.Y.Z.zip`)

@@ -4,15 +4,13 @@
 
 | Setting | Description |
 | --- | --- |
-| **Use Fast Booleans** | Whether to use the "FAST" solver option on boolean modifiers or the "EXACT" solver option |
-| **Automatically run Solidify after Recon Poly** | When enabled will automatically invoke the Solidify operator after finishing a Recon Poly operation |
-| **Automatically set Recon Poly extents to Inscribed (vs. Circumscribed)** | When enabled, will set the default extents mode for Recon Poly to "Inscribed" |
+| **Use Fast Booleans** | Whether ND will use the _Fast/Float_ solver option on boolean modifiers or the _Exact_ solver option |
 | **Create Custom Transform Orientations with View Align** | Whether ND will save a custom transform orientation (i.e. alongside global, local) when using View Align  |
 | **Enable Right Click Select** | Alter ND's behaviour so that it is more compatible with right-click select in Blender |
 | **Enable Auto Smoothing** | Whether ND will automatically add auto smoothing to objects after performing various operations |
 | **Bevel / Smooth Angle** | The default angle to use for bevel and smoothing operations (30, 45, or 60 degrees) |
-| **Custom Screw Heads** | A path to a custom `.blend` file containing screw heads to be used in addition to the default set provided by the [Screw Head Operator](/standalone/screw-head) |
 | **Enable Update Checks** | Will automatically check if a new version of the addon is available when Blender starts (only available when ND is installed from disk) |
+| **Utils Toggle Behaviour** | Whether ND will use the _Disable in Viewports_ or _Hide in Viewport_ behaviour when toggling util visibility.
 | **Experimental Mode** | Enable experimental features. Use at your own risk! |
 
 ## UI
@@ -33,6 +31,7 @@
 | **Axis Base Thickness** | The base thickness of the axis visualizer |
 | **Axis Active Thickness** | The thickness of the active (selected) axis |
 | **Axis Inactive Opacity** | The opacity of the inactive (unselected) axes |
+| **Hide Asset Library Install Prompt** | Prevents the install prompt from showing in ND's N-Panel menu |
 | **Custom Overlay Options** | Select which overlays will be kept on when toggling the 3D viewport overlays; see below. |
 
 ?> **Custom viewport overlay options:** `show_annotations`, `show_axis_x`, `show_axis_y`, `show_axis_z`, `show_bones`, `show_cursor`, `show_extras`, `show_floor`, `show_motion_paths`, `show_object_origins`, `show_object_origins_all`, `show_ortho_grid`, `show_outline_selected`, `show_relationship_lines`, `show_stats`, and `show_text`.

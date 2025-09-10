@@ -2,8 +2,6 @@
 
 The Snap Align operator will allow you to align a reference object to the underlying geometry of the active object.
 
-[](../_media/snap-align.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

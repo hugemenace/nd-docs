@@ -7,10 +7,10 @@ ND is a Blender add-on that provides workflow enhancements, tools, operations, a
 - Interactive modifiers.
 - Recalling modifiers to alter parameters.
 - Streamlined boolean, bevel, extrusion, and replication workflows.
-- Generators for creating common shapes and geometry.
 - Model packaging (material IDs, high & low poly, UVs.)
 - Scene management (utils, overlays, visualisation modes.)
 - Extensive customisation (behaviour, theming, UI.)
+- Asset Library (optional install) for even more functionality!
 
 <a href="https://www.patreon.com/bePatron?u=48315864"><img src="https://hugemenace.co/images/patreon.jpg"></a>
 

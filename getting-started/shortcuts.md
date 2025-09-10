@@ -7,7 +7,6 @@
 | **`SHIFT + 2`** | Open the primary ND shortcut menu | **Yes** |
 | **`F`** | Open the fast prediction menu | **Yes** |
 | **`ALT + S`** | Open the ND sketch menu | **Yes** |
-| **`SHIFT + ALT + G`** | Open the ND generators menu | **Yes** |
 | **`ALT + T`** | Open the ND utils menu | **Yes** |
 | **`ALT + V`** | Open the ND viewport menu | **Yes** |
 | **`SHIFT + ALT + E`** | Open the ND Packaging menu | **Yes** |
@@ -31,4 +30,4 @@
 | **`\`** | Pause the current operation (pass events through to Blender) | **Yes** |
 | **`X`** | Reset the current option's value back to its default | **Yes** |
 
-?> **RCS:** Right-click support (enabled in ND's preferences) — requires Blender's right-click select option to be enabled.
+?> **\*RCS:** Right-click support (enabled in ND's preferences) — requires Blender's right-click select option to be enabled.

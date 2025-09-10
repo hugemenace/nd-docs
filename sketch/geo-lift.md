@@ -2,8 +2,6 @@
 
 The Geo Lift operator will create a virtual copy of the selected object with modifiers applied, allowing you to select and extract geometry before returning to back a non-destructive workflow.
 
-[](../_media/geo-lift.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

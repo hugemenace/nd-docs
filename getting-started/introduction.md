@@ -12,16 +12,16 @@ Modifiers are the fundamental building block of a non-destructive workflow. They
 
 ND utilises Blender's built-in modifiers through interactive overlays, simplifying complicated or otherwise tedious modelling tasks while keeping all of your actions non-destructive.
 
-[Sketch Extrude](../_media/modifiers.mp4 ':include')
+[Modifiers Cycle](../_media/modifiers.mp4 ':include')
 
 ## Generators
 
 Generators are tools which use pre-defined modifier stacks or asset packs to create common shapes and geometry.
 
-[Sketch Extrude](../_media/generators.mp4 ':include')
+[Generators Recon Poly](../_media/generators.mp4 ':include')
 
 ## Utils
 
 ND contains several utilities which simplify complicated or tedious tasks, both destructive and non-destructive.
 
-[Sketch Extrude](../_media/utils.mp4 ':include')
+[Utils UV Seams](../_media/utils.mp4 ':include')
