@@ -32,6 +32,8 @@ Where applicable, the **Context** determines which portion of the input geometry
 | `Reference Geometry` | The modifier only uses the part of input geometry marked as reference. |
 | `Working Geometry` | The modifier only uses the part of input geometry NOT marked as reference. |
 
+?> **Note:** For certain operators that use and discard the context geometry there is an option to _Preserve_ it (i.e. pass it through untouched).
+
 When an ND modifier has completed its work, you can optionally define what the **Next Reference** geometry will be (except for _Selectors_).
 
 | Next Reference | Description |
