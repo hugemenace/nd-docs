@@ -2,8 +2,6 @@
 
 The Screw operator will take a 2D planar sketch or profile and revolve it around the object's origin point, creating workable 3D geometry.
 
-[](../_media/screw.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

@@ -2,6 +2,8 @@
 
 ND is a Blender add-on that provides workflow enhancements, tools, operations, and generators tailored specifically for non-destructive & hard-surface 3D modelling. It additionally offers post-modelling workflow enhancements for external applications such as Substance Painter, Marmoset Toolbag, game engines, and more.
 
+?> This documentation is updated for ND Version 2.0.0
+
 **Features**
 - Object and edit mode operations.
 - Interactive modifiers.
@@ -10,6 +12,7 @@ ND is a Blender add-on that provides workflow enhancements, tools, operations, a
 - Model packaging (material IDs, high & low poly, UVs.)
 - Scene management (utils, overlays, visualisation modes.)
 - Extensive customisation (behaviour, theming, UI.)
+- Asset Library (optional install) for even more functionality!
 
 <a href="https://www.patreon.com/bePatron?u=48315864"><img src="https://hugemenace.co/images/patreon.jpg"></a>
 

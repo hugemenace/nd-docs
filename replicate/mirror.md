@@ -2,8 +2,6 @@
 
 The Mirror operator will mirror the selected object across the given axis or selected geometry.
 
-[](../_media/mirror.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
@@ -18,6 +16,6 @@ Hold down the shortcut when selecting the operator to enter the respective mode.
 
 | Shortcut | Description |
 | :--- | :--- |
-| **`ALT`** | Mirror across geometry (you will be prompted to select which geometry to use as a mirror object) |
+| **`ALT`** | Mirror across geometry (you will be prompted to select which geometry to use as a mirror point/plane) |
 | **`SHIFT`** | Place modifier at the top of the stack |
 | **`CTRL`** | **RESET**: Remove any related modifiers from the selected object |

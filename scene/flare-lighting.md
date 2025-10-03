@@ -2,8 +2,6 @@
 
 The Flare Lighting operator will instantiate a new random/procedural lighting rig in the scene, focused on the selected object.
 
-[](../_media/flare.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

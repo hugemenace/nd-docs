@@ -3,6 +3,7 @@
     - [Welcome](/)
     - [Install / Update](/getting-started/install-update)
     - [Introduction](/getting-started/introduction)
+    - [Asset Library](/getting-started/asset-library)
     - [Shortcuts](/getting-started/shortcuts)
     - [Preferences](/getting-started/preferences)
     - [Changelog](/getting-started/changelog)
@@ -16,13 +17,12 @@
 
     - [Single Vertex](/sketch/single-vertex)
     - [Make Manifold](/sketch/make-manifold)
-    - [Clear Vertex Groups](/sketch/clear-vertex-groups)
+    - [Edge Length](sketch/edge-length)
     - [View Align](/sketch/view-align)
     - [Geo Lift](/sketch/geo-lift)
     - [Panel](/sketch/panel)
     - [Circularize (R)](/sketch/circularize)
-    - [Recon Poly (R)](/sketch/recon-poly)
-    - [Screw Head](/sketch/screw-head)
+    - [Clear Scale](/sketch/clear-scale)
 
 - Booleans
 
@@ -37,16 +37,16 @@
 
 - Bevels
 
+    - [Object (R)](/bevels/object)
     - [Vertex (R)](/bevels/vertex)
-    - [Edge (R)](/bevels/edge)
-    - [Bevel (R)](/bevels/bevel)
+    - [Edge Weighted (R)](/bevels/edge-weighted)
+    - [Edge Attribute (R)](/bevels/edge-attribute)
 
 - Extrusion
 
     - [Solidify (R)](/extrusion/solidify)
     - [Screw (R)](/extrusion/screw)
     - [Profile Extrude (R)](/extrusion/profile-extrude)
-    - [Pipe Extrude (R)](/extrusion/pipe-extrude)
 
 - Replicate
 
@@ -74,6 +74,12 @@
     - [Flare Lighting (R)](/scene/flare-lighting)
     - [Clean Utils](/scene/clean-utils)
 
+- Data
+
+    - [Vertex Group Editor](/data/vertex-group-editor)
+    - [Clear Vertex Groups](/data/clear-vertex-groups)
+    - [Clear Edge Marks](/data/clear-edge-marks)
+
 - Packaging
 
     - [Material Selection](/packaging/material-selection)
@@ -86,6 +92,7 @@
 
 - Utils
 
+    - [Mark as Utility](/utils/mark-utility.md)
     - [Set Origin](/utils/set-origin)
     - [Snap Align](/utils/snap-align)
     - [Smart Duplicate](/utils/smart-duplicate.md)
@@ -98,6 +105,8 @@
     - [Wireframes](/viewport/wireframes)
     - [Face Orientation](/viewport/face-orientation)
     - [Utils Visibility](/viewport/utils-visibility)
+    - [Capture Utils](/viewport/capture-utils)
     - [Silhouette](/viewport/silhouette)
-    - [Overlays (All)](/viewport/overlays-all)
+    - [Cavity](/viewport/cavity)
     - [Overlays (Custom)](/viewport/overlays-custom)
+    - [Overlays (All)](/viewport/overlays-all)

@@ -2,8 +2,6 @@
 
 The Array Cubed operator will array the selected object along any given axis (X, Y, Z), or combination of axes.
 
-[](../_media/array-cubed.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |

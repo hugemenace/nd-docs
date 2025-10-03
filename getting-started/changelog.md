@@ -1,5 +1,57 @@
 # Changelog
 
+## 2.0.0 (2025-10-03)
+
+
+### Features
+
+* add "Install Asset Library" button to the N-panel menu for Blender 4.5+
+* add a Data category to the main menu and N-panel to house data-related operators (e.g., clear vertex groups)
+* add a soft-apply mode to the Apply Modifiers operator and tighten up the default behaviour & tooltip
+* add additional width types to the edge bevel operator
+* add additional width types to the object bevel operator
+* add additional width types to the vertex bevel operator
+* add attribute-based edge bevel operator
+* add Blender 4.5+ Vulkan support for shaders (points, lines, etc)
+* add capture utils operator to display and exclusively select all utils or the selected objects' utils
+* add Cavity toggle to viewport menu
+* add clear edge marks data operator
+* add integrated GN-powered asset library
+* add Mark As Util operator to utils menu
+* add target execution, revert functionality, and Blender 4.5 manifold support to swap solver operator
+* add the deep alt mode option to smart and linked duplicate operators to allow for recursive child duplication
+* add vgroup editor operator
+* add viewport utils toggle behaviour preference
+* remove the Utils collection in favour of utility and target object co-location and natural scene hierarchy
+
+
+### Bug Fixes
+
+* ensure GN mod use_attribute properties are casted to bools before setting during sync-modifiers operations
+* ensure that CTRL-clicking the lattice operator removes any object associated lattice meshes, not just the modifier(s)
+* ensure that performing a boolean operation with an existing cutter doesn't detach that cutter from its current parent
+* ensure that the Hydrate operator only cycles through collections in the active scene
+* ensure that vertex weights are set as expected on new or recalled vertex bevel operations
+* ensure the apply modifiers operator only removes vertex groups created by other ND operators
+* ensure the lattice operator's uniform setting is restored when recalling an object lattice
+* ensure the triangulate operator's Keep Normals behaviour is consistent across all supported Blender versions
+* fix the mirror get_preferences error when in alt mode
+* remove bgl import from points draw handler
+
+
+## 1.48.0 (2025-02-19)
+
+
+## Features
+
+* add a 'Boolean Connectors' option to the GN Pipe Generator modifier
+* add the new Generators menu to the N-Panel on Blender 4.3+
+
+## Bug Fixes
+
+* ensure the Generators shortcut menu (Shift Alt G) is not bound on Blender versions lower than 4.3
+* fix the Pipe Generator error when corner mode is activated on an edge with less than 3 vertices
+
 ## 1.47.0 (2025-02-11)
 
 

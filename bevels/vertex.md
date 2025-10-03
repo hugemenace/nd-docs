@@ -2,8 +2,6 @@
 
 The Vertex Bevel operator will perform a vertex specific bevel, allowing you to customise the width, segments, and profile.
 
-[](../_media/vertex-bevel.mp4 ':include')
-
 ## Options
 
 | Option | Shortcut | Mouse Value Compatible | Description |
@@ -11,7 +9,8 @@ The Vertex Bevel operator will perform a vertex specific bevel, allowing you to 
 | Width | _None_ | **Yes** | The width of the bevel |
 | Segments | _None_ | **Yes** | The number of segments (sides) |
 | Profile | _None_ | **Yes** | The profile of the bevel (concave, convex, neutral) |
-| Enhanced Wireframe | **`W`** | No | Display the object's wireframe over solid shading |
+| Width Type | **`W`** | No | The width type (offset, width, depth, percent, absolute) |
+| Enhanced Wireframe | **`E`** | No | Display the object's wireframe over solid shading |
 
 ## Alternative modes
 
