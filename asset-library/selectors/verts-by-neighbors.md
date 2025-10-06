@@ -20,4 +20,4 @@ Detects vertices based on their neighbour count that matches the specified condi
 
 | Icon |
 | --- |
-| ![ND.SelectEndpoints](../../_media/asset-library/ND.SelectEndpoints.png ':size=128') |
+| ![ND.SelectVertsByNeighbors](../../_media/asset-library/ND.SelectVertsByNeighbors.png ':size=128') |
