@@ -10,6 +10,8 @@ The Asset Library is an optional one-click install, available from the 3D viewpo
 
 ![Install Asset Library](../_media/install-asset-library.jpg)
 
+?> **Manual installation:** the asset library file, `nd_asset_library.blend`, is located in the `assets` directory within the ND add‑on folder. You may copy or move this file to another location on your hard drive and add its path in Blender’s preferences. If you want to use the built‑in categories, also copy the `blender_assets.cats.txt` file alongside it.
+
 ## Concepts
 
 Blender's built-in modifiers offer powerful non-destructive operations to be applied to an object. ND add-on then helps orchestrate the use of modifiers to make a non-destructive modeling workflow easier and more efficient.
