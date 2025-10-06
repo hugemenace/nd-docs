@@ -10,6 +10,8 @@ The Asset Library is an optional one-click install, available from the 3D viewpo
 
 ![Install Asset Library](../_media/install-asset-library.jpg)
 
+?> **Manual installation:** the asset library file, `nd_asset_library.blend`, is located in the `assets` directory within the ND add‑on folder. You may copy or move this file to another location on your hard drive and add its path in Blender’s preferences. If you want to use the built‑in categories, also copy the `blender_assets.cats.txt` file alongside it.
+
 ## Concepts
 
 Blender's built-in modifiers offer powerful non-destructive operations to be applied to an object. ND add-on then helps orchestrate the use of modifiers to make a non-destructive modeling workflow easier and more efficient.
@@ -22,28 +24,7 @@ The ND Asset Library further extends this functionality with custom GN powered m
 
 Just like built-in modifiers, these are accessed via an object's modifier stack. However, the ND Asset Library introduces a new paradigm allowing you to maintain **Reference geometry** alongside **Working geometry**. This enables you to work on the result of the last modifier (the working geometry) just like a regular built-in modifier, or optionally work on preserved geometry from earlier in the stack (as reference geometry). We refer to **Input geometry** as the combination of _Working_ and _Reference_ geometry.
 
-You can find these options in the **Advanced** panel of each modifier:
-
-Where applicable, the **Context** determines which portion of the input geometry the modifier will work with to produce new working geometry (output):
-
-| Context | Description |
-| :--- | :--- |
-| `Input Geometry` | The modifier uses all input geometry. |
-| `Reference Geometry` | The modifier only uses the part of input geometry marked as reference. |
-| `Working Geometry` | The modifier only uses the part of input geometry NOT marked as reference. |
-
-?> **Note:** For certain operators that use and discard the context geometry there is an option to _Preserve_ it (i.e. pass it through untouched).
-
-When an ND modifier has completed its work, you can optionally define what the **Next Reference** geometry will be (except for _Selectors_).
-
-| Next Reference | Description |
-| :--- | :--- |
-| `None` | The modifier does not output any reference geometry. |
-| `Input Geometry` | The modifier marks all input geometry (both working & reference) as  the new reference geometry. |
-| `Working Geometry` | The modifier marks any geometry it created or modified as the new  reference geometry. |
-| `Use Previous` | The modifier passes along the previous reference geometry as-is. |
-
-?> **Note:** Reference geometry is automatically deleted after each modifier completes. However, _Use Previous_ and _Input Geometry_ preserve any existing reference geometry for later use.
+You can find these options in the **Advanced** panel of each modifier.
 
 !> **Important:** The ND reference paradigm only works for ND modifiers. Blender's built-in modifiers have no concept of _context_ so will always use all input geometry and cannot tell the difference between _working_ and _reference_ geometry.
 

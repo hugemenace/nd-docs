@@ -1,19 +1,44 @@
-- Home
+- — Home —
     
     - [Welcome](/)
     - [Install / Update](/getting-started/install-update)
     - [Introduction](/getting-started/introduction)
-    - [Asset Library](/getting-started/asset-library)
     - [Shortcuts](/getting-started/shortcuts)
     - [Preferences](/getting-started/preferences)
     - [Changelog](/getting-started/changelog)
     - [License](/getting-started/license)
 
-- Standalone
+- — Asset Library —
+
+    - [Overview](/asset-library/overview)
+    - [Common Parameters](/asset-library/common-parameters)
+    - Generators
+        - [Overview](/asset-library/generators/overview)
+        - [Disc](/asset-library/generators/disc)
+        - [Grid](/asset-library/generators/grid)
+        - [Hole](/asset-library/generators/hole)
+        - [Polygon](/asset-library/generators/polygon)
+    - Selectors
+        - [Overview](/asset-library/selectors/overview)
+        - [Endpoints](/asset-library/selectors/endpoints)
+        - [VertsByNeighbors](/asset-library/selectors/verts-by-neighbors)
+    - Operators
+        - [Overview](/asset-library/operators/overview)
+        - [Array Circular](/asset-library/operators/array-circular)
+        - [Array Path](/asset-library/operators/array-path)
+        - [Array Rectangular](/asset-library/operators/array-rectangular)
+        - [Attach](/asset-library/operators/attach)
+        - [Distribute](/asset-library/operators/distribute)
+        - [Extrude](/asset-library/operators/extrude)
+        - [Path Smooth](/asset-library/operators/path-smooth)
+        - [Revolve](/asset-library/operators/revolve)
+        - [Sweep](/asset-library/operators/sweep)
+
+- — Standalone —
 
     - [Cycle](/standalone/cycle)
 
-- Sketch
+- — Sketch —
 
     - [Single Vertex](/sketch/single-vertex)
     - [Make Manifold](/sketch/make-manifold)
@@ -24,7 +49,7 @@
     - [Circularize (R)](/sketch/circularize)
     - [Clear Scale](/sketch/clear-scale)
 
-- Booleans
+- — Booleans —
 
     - [Difference](/booleans/difference)
     - [Union](/booleans/union)
@@ -35,52 +60,52 @@
     - [Swap Solver](/booleans/swap-solver)
     - [Duplicate Utility](/booleans/duplicate-utility)
 
-- Bevels
+- — Bevels —
 
     - [Object (R)](/bevels/object)
     - [Vertex (R)](/bevels/vertex)
     - [Edge Weighted (R)](/bevels/edge-weighted)
     - [Edge Attribute (R)](/bevels/edge-attribute)
 
-- Extrusion
+- — Extrusion —
 
     - [Solidify (R)](/extrusion/solidify)
     - [Screw (R)](/extrusion/screw)
     - [Profile Extrude (R)](/extrusion/profile-extrude)
 
-- Replicate
+- — Replicate —
 
     - [Array³ (R)](/replicate/array-cubed)
     - [Circular Array (R)](/replicate/circular-array)
     - [Mirror](/replicate/mirror)
 
-- Deform
+- — Deform —
 
     - [Lattice (R)](/deform/lattice)
     - [Simple Deform (R)](/deform/simple-deform)
 
-- Simplify
+- — Simplify —
 
     - [Decimate](/simplify/decimate)
     - [Weld](/simplify/weld)
 
-- Shading
+- — Shading —
 
     - [Smooth Shading](/shading/smooth-shading)
     - [Weighted Normals](/shading/weighted-normals)
 
-- Scene
+- — Scene —
 
     - [Flare Lighting (R)](/scene/flare-lighting)
     - [Clean Utils](/scene/clean-utils)
 
-- Data
+- — Data —
 
     - [Vertex Group Editor](/data/vertex-group-editor)
     - [Clear Vertex Groups](/data/clear-vertex-groups)
     - [Clear Edge Marks](/data/clear-edge-marks)
 
-- Packaging
+- — Packaging —
 
     - [Material Selection](/packaging/material-selection)
     - [Bulk Assign Materials](/packaging/bulk-assign-materials)
@@ -90,7 +115,7 @@
     - [UV Seams](/packaging/uv-seams)
     - [Triangulate](/packaging/triangulate)
 
-- Utils
+- — Utils —
 
     - [Mark as Utility](/utils/mark-utility.md)
     - [Set Origin](/utils/set-origin)
@@ -100,7 +125,7 @@
     - [Sync Modifiers](/utils/sync-modifiers)
     - [Apply Modifiers](/utils/apply-modifiers)
 
-- Viewport
+- — Viewport —
 
     - [Wireframes](/viewport/wireframes)
     - [Face Orientation](/viewport/face-orientation)

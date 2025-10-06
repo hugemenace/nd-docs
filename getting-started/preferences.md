@@ -3,7 +3,7 @@
 ## General
 
 | Setting | Description |
-| --- | --- |
+| :--- | :--- |
 | **Use Fast Booleans** | Whether ND will use the _Fast/Float_ solver option on boolean modifiers or the _Exact_ solver option |
 | **Create Custom Transform Orientations with View Align** | Whether ND will save a custom transform orientation (i.e. alongside global, local) when using View Align  |
 | **Enable Right Click Select** | Alter ND's behaviour so that it is more compatible with right-click select in Blender |
@@ -16,7 +16,7 @@
 ## UI
 
 | Setting | Description |
-| --- | --- |
+| :--- | :--- |
 | **Overlay DPI** | The DPI (size) of the ND overlay UI |
 | **Enable Mouse Values** | Whether to enable mouse values mode (i.e. increasing or decreasing the value of the selected operator option by moving the mouse) |
 | **Extend Mouse Values** | Whether to enable extended mouse values. This mode will allow you to change the segments on bevel using the scroll wheel without having to hold down the ALT key |
