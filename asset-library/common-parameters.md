@@ -38,3 +38,7 @@ If you’re working with small‑scale objects (for example, in the 1–100 mm
 ## Preserve Context Geometry
 
 For certain modifiers that operate directly on the input context geometry, a `Preserve Context Geometry` option is available. When enabled, this prevents the modifier from “consuming” the input geometry, allowing it to pass through unchanged instead. In most cases, consumption of the input geometry is the desired behaviour, but this toggle provides flexibility when the original geometry needs to be retained.
+
+## Flip Normals
+
+When faces are generated procedurally, their normals may sometimes be calculated incorrectly, causing them to face the wrong direction. Enabling this option reverses the normals, ensuring they point outward as intended.
